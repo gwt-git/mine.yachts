@@ -1,4 +1,4 @@
-### an eve frontier project
+### an [eve frontier](https://evefrontier.com/) project
 
 [start](https://github.com/gwt-git/mine.yachts/blob/main/mine-yachts.csv)
 
