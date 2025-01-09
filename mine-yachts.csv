@@ -1,5 +1,5 @@
 ﻿Step,Ship,Engine,H1,H2,M1,M2,L1,L2,Class,Description
-0,Forager,uSOF XS,0,0,Afterburner,0,Small Cutting Laser,0,Shuttle,Starter rig. Free at every station.
+0,Forager,uSOF XS,Small Cutting Laser,0,Afterburner,0,0,0,Shuttle,Starter rig. Free at every station.
 1,Forager,uSOF XS,Small Cutting Laser,0,Afterburner,0,Cargo Grid,Cargo Grid,Shuttle,Mining rig. Build cargo grids and Synthetic Mining Lens.
 2,Juav,GSC XS,Base Weapon,Base Weapon,Afterburner II,,Nimble Armor Plates II,Attuned Shield Generator II,Frigate,Attack rig. Priority now is Salvaged Exotronics from Surveyors for parts. Autocannon's available with travel to a keep. Mid slot available for resistance buff or warp net.
 3,Val,GSC S,Cutting Laser,Cutting Laser,Afterburner II,,Cargo Grid,Cargo Grid,Frigate, Haul rig. Need crude matter fuel. T2/3 mining lenses and cutting lasers.
