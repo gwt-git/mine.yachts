@@ -1,9 +1,9 @@
 ﻿Asteroid,Location,Qty,Lens,Sil,Carbon,Water,Iron,Light,Precious,Thorium,Reactiform,Densiform,Tranquilis,Animite
 Carbonaceous Ore,Carbon Rock Debris Field,1000,S,800,4200,33500,0,0,0,0,0,0,0,0
+Metal-Rich Ore,Metal-Rich Cluster,1000,S,0,0,0,25100,25100,2100,0,0,0,0,0
 Common Ore,Natural Asteroid Cluster,1000,S,4300,0,2600,8200,700,0,0,0,0,0,0
 Deep-Core Carbon Ore,Outer-Belt Asteroid Field,1000,S,700,24900,9000,0,0,0,0,0,0,0,0
 Deep-Core Metallic Ore,Asteroid Debris Field/Heavy Metal Harvest Field,1000,S,0,0,0,30500,1300,4000,10400,0,0,0,0
-Metal-Rich Ore,Metal-Rich Cluster,1000,S,0,0,0,25100,25100,2100,0,0,0,0,0
 Adaptive Core Aestasium,Murky,1000,M,0,0,0,0,0,0,0,7900,0,0,84300
 Agile Core Aestasium,Murky,1000,M,0,0,0,0,0,0,0,80700,2000,0,6800
 Hardened Core Aestasium,Murky,1000,M,0,0,0,0,0,0,0,0,8300,75300,0
