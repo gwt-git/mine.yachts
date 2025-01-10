@@ -1,4 +1,4 @@
 ﻿Step,Ship,Engine,H1,H2,M1,M2,L1,L2,L3,L4,Class,Description
 0,Forager,uSOF XS,Small Cutting Laser,0,Afterburner,0,Cargo Grid,Cargo Grid,,,Shuttle,Starter rig. Free at every station. Add cargo grids.
 1,Juav,GSC XS,Base Weapon,Base Weapon,Afterburner II,,Nimble Armor Plates II,Attuned Shield Generator II,,,Frigate, Upgrade for Combat and Mining. Priority now is Salvaged Exotronics from Surveyors for parts. Autocannon's available with travel to a keep. Mid slot available for resistance buff or warp net.
-2,Val,GSC S,Cutting Laser,Cutting Laser,Afterburner II,,Cargo Grid,Cargo Grid,,,Frigate,Upgrade Hauler. Need Crude.
+2,Val,GSC S,Cutting Laser,Cutting Laser,Afterburner II,,Cargo Grid,Cargo Grid,Cargo Grid,Cargo Grid,Frigate,Upgrade Hauler. Need Crude.
