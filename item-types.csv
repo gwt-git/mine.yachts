@@ -1,0 +1,750 @@
+name,description,smartItemId,typeID,volume,mass,radius,portionSize,groupID,groupName,categoryID,category Name,icon
+Deep Core Mining,Skill at operating mining lasers requiring Deep Core Mining. 10% reduction per skill level to the chance of a damage cloud forming while mining Mercoxit.,18157304258724814604005497123927088291515570528141733583512118445275451450745,11395,0.01,0,1,1,1218,Resource Processing,16,Skill,ico11395.png
+Ice Harvesting,Skill at harvesting ice. 5% reduction per skill level to the cycle time of ice harvesters.,25943078493983993976488986602509498482825415922452135233801824378725458565929,16281,0.01,0,1,1,1218,Resource Processing,16,Skill,ico16281.png
+Marketing,"Skill at selling items remotely. Each level increases the range from the seller to the item being sold. Level 1 allows for the sale of items within the same solar system, Level 2 extends that range to systems within 5 jumps, and each subsequent level then doubles it. Level 5 allows for sale of items located anywhere within current region.",110484418832221242308510631642084634649624547987653205809488879826463616074288,16598,0.01,0,,1,274,Trade,16,Skill,ico16598.png
+Supply Chain Management,"Proficiency at starting manufacturing jobs remotely. Without this skill, one can only start jobs within the solar system where one is located. Each level increases the distance at which manufacturing jobs can be started. Level 1 allows for jobs at a range within 5 jumps, and each subsequent level adds 5 more jumps to the range, with a maximum of a 25 jump range.",4424824292750320861660704815526454641065715024432936641968754898264691647361,24268,0.01,0,1,1,268,Production,16,Skill,ico24268.png
+Advanced Mass Production,Further training in the operation of multiple factories. Ability to run 1 additional manufacturing job per skill level.,94263958511543586965094054479541919117471383207458619424989730686433036563170,24625,0.01,0,1,1,268,Production,16,Skill,ico24625.png
+Corpse Male,,73921166872174828398092143801766525189215984163603041867461623247379655507370,25,2,80,1,1,14,Biomass,2,Celestial,ico25.png
+Gallente Basic Outpost Factory Platform,A basic upgrade to Gallente Outpost manufacturing capabilities. Gives a manufacturing time reduction on all Capital Construction Components of 20%.,111548570199651664149174293480008874870001076438104843314882863017855485018860,27939,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico27939.png
+Minmatar Basic Outpost Factory Platform,A basic upgrade to Minmatar Outpost manufacturing capabilities. Gives a manufacturing time reduction on all Modules of 20%.,26558259632212276232816763675405236516233374289757803556488237827516647862338,27941,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico27941.png
+Gallente Outpost Factory Platform,An intermediate upgrade to Gallente Outpost manufacturing capabilities. Increases the manufacturing time reduction on all Capital Construction Components to 40%.,84282972683594307574152566571031490705070920293916257906968210954783268932606,27967,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico27967.png
+Gallente Advanced Outpost Factory Platform,An advanced upgrade to Gallente Outpost manufacturing capabilities. Increases the manufacturing time reduction on all Capital Construction Components to 60%.,50603301389136979476945268935597730378047079577664263534560390633822341991168,27969,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico27969.png
+Minmatar Outpost Factory Platform,An intermediate upgrade to Minmatar Outpost manufacturing capabilities. Increases the manufacturing time reduction on all Modules to 40%.,32255582546390939712136977461441516287830018168853899059759072404535879062132,27971,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico27971.png
+Minmatar Advanced Outpost Factory Platform,An advanced upgrade to Minmatar Outpost manufacturing capabilities. Increases the manufacturing time reduction on all Modules to 60%.,108828287790384926605934424940625074305649894400892391390380445982835089187486,27973,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico27973.png
+Gallente Outpost Plant Platform,An intermediate upgrade to Gallente Outpost manufacturing capabilities. Gives 1% Material Efficiency reduction to all manufacturing jobs (stacks with all other improvements of the same type).,28161435606486073699206011987557802974087735158946485088482503929352546491238,27975,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico27975.png
+Gallente Advanced Outpost Plant Platform,An advanced upgrade to Gallente Outpost manufacturing capabilities. Gives 1% Material Efficiency reduction to all manufacturing jobs (stacks with all other improvements of the same type).,20427165245024067220798714601343404351753498633518042012998198655664899637192,27977,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico27977.png
+Minmatar Outpost Plant Platform,An intermediate upgrade to Minmatar Outpost manufacturing capabilities. Gives 1% Material Efficiency reduction to all manufacturing jobs (stacks with all other improvements of the same type).,99669766254077496957599762347916491149482814073505805729071902295711798028667,27979,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico27979.png
+Minmatar Advanced Outpost Plant Platform,An advanced upgrade to Minmatar Outpost manufacturing capabilities. Gives 1% Material Efficiency reduction to all manufacturing jobs (stacks with all other improvements of the same type).,35074955369037720134890552235859847701647502974008799905616275575407082928418,27981,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico27981.png
+Gallente Basic Outpost Plant Platform,A basic upgrade to Gallente Outpost manufacturing capabilities. Gives 1% Material Efficiency reduction to all manufacturing jobs (stacks with all other improvements of the same type).,73271889510265638408071607088133003622641304737817391408482823341158076233632,27983,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico27983.png
+Minmatar Basic Outpost Plant Platform,A basic upgrade to Minmatar Outpost manufacturing capabilities. Gives 1% Material Efficiency reduction to all manufacturing jobs (stacks with all other improvements of the same type).,24889934574286587003485720090108664791430518749550865939375912929141841643698,27985,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico27985.png
+Gallente Basic Outpost Laboratory Platform,"A basic upgrade to Gallente Outpost research capabilities. Gives a 10% cost reduction to Material Efficiency, Time Efficiency, Copy, Invention jobs (stacks with all other improvements of the same type) and gives a research time reduction on all Copying research of 20%.",12969650148640301459428656925343996988992574646597317059098671955672771222610,28005,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico28005.png
+Gallente Outpost Laboratory Platform,"An intermediate upgrade to Gallente Outpost research capabilities. Gives an additional 10% cost reduction to Material Efficiency, Time Efficiency, Copy, Invention jobs (stacks with all other improvements of the same type) and increases the research time reduction on all Copying research to 40%.",112828109412238336318732048749157156115454520878673630290003714184734220602176,28007,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico28007.png
+Gallente Advanced Outpost Laboratory Platform,"An advanced upgrade to Gallente Outpost research capabilities. Gives an additional 10% cost reduction to Material Efficiency, Time Efficiency, Copy, Invention jobs (stacks with all other improvements of the same type) and increases the research time reduction on all Copying research to 60%.",72815982011309526163463302999366146557358151375917229924676415602319701813175,28009,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico28009.png
+Minmatar Basic Outpost Laboratory Platform,"A basic upgrade to Minmatar Outpost research capabilities. Gives a 10% cost reduction to Material Efficiency, Time Efficiency, Copy jobs (stacks with all other improvements of the same type) and gives a research time reduction on all ME research of 20%.",63100538040998113801605947512558452180562086999611344170849312916457023588132,28011,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico28011.png
+Minmatar Outpost Laboratory Platform,"An intermediate upgrade to Minmatar Outpost research capabilities. Gives an additional 10% cost reduction to Material Efficiency, Time Efficiency, Copy jobs (stacks with all other improvements of the same type) and increases the research time reduction on all ME research to 40%.",1477781043486471792984742280046799545590530869092460033213933754981396267229,28013,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico28013.png
+Minmatar Advanced Outpost Laboratory Platform,"An advanced upgrade to Minmatar Outpost research capabilities. Gives an additional 10% cost reduction to Material Efficiency, Time Efficiency, Copy jobs (stacks with all other improvements of the same type) and increases the research time reduction on all ME research to 60%.",84908204112053173338639164229486686637701817725809025612838333352052492323921,28015,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico28015.png
+Gallente Basic Outpost Refinery Platform,"Installs a basic refinery into Gallente Outposts. Increases ore and ice reprocessing efficiency to 52%.
+
+Note: does not affect anything else but the two groups mentioned above.",54600417425492998742412169116264907913413041439766848140167302106348367062671,28029,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico28029.png
+Gallente Outpost Refinery Platform,"An intermediate upgrade to Gallente Outpost refining facilities. Increases ore and ice reprocessing efficiency to 54%.
+
+Note: does not affect anything else but the two groups mentioned above.",21115702974394539105776948226263098538277456897472740905702134685125210321328,28031,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico28031.png
+Gallente Advanced Outpost Refinery Platform,"An advanced upgrade to Gallente Outpost refining facilities. Increases ore and ice reprocessing efficiency to 57%.
+
+Note: does not affect anything else but the two groups mentioned above.",14220807858398326053333291697010793141715986411444858395782192340948314698938,28033,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico28033.png
+Minmatar Basic Outpost Refinery Platform,"A basic upgrade to Minmatar Outpost refining facilities. Increases ore and ice reprocessing efficiency to 54%.
+
+Note: does not affect anything else but the two groups mentioned above.",88901002490952566922390898503669043921228810379059595711339133013724395797690,28035,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico28035.png
+Minmatar Outpost Refinery Platform,"An intermediate upgrade to Minmatar Outpost refining facilities. Increases ore and ice reprocessing efficiency to 57%.
+
+Note: does not affect anything else but the two groups mentioned above.",22774977259902186236640439691756019587342122591347303427143872307618638992698,28037,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico28037.png
+Minmatar Advanced Outpost Refinery Platform,"An advanced upgrade to Minmatar Outpost refining facilities. Increases ore and ice reprocessing efficiency to 60%.
+
+Note: does not affect anything else but the two groups mentioned above.",80538496926219729337899064130011812562556894816291712886783771549111230969909,28039,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico28039.png
+Gallente Basic Outpost Office Platform,A basic upgrade to Gallente Outpost office facilities. Gives an additional twelve office slots.,60912402228864663376746787366742291455619750020619962094880896894932164172431,28053,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico28053.png
+Gallente Outpost Office Platform,An intermediate upgrade to Gallente Outpost office facilities. Gives an additional twenty four office slots.,90306443026175695296889601883536173503369484742658749870904646125006497345588,28055,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico28055.png
+Gallente Advanced Outpost Office Platform,An advanced upgrade to Gallente Outpost office facilities. Gives an additional thirty six office slots.,2576716962026223630939907281284218411388444139138514862799688342204537486221,28057,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico28057.png
+Minmatar Basic Outpost Office Platform,A basic upgrade to Minmatar Outpost office facilities. Gives an additional seven office slots.,49958256615551050223139307490545190832751323941913016820653999789181667406740,28059,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico28059.png
+Minmatar Outpost Office Platform,An intermediate upgrade to Minmatar Outpost office facilities. Gives an additional ten office slots.,21012305699286036788081543676025892723059108235608371060819999620759607091816,28061,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico28061.png
+Minmatar Advanced Outpost Office Platform,An advanced upgrade to Minmatar Outpost office facilities. Gives an additional fifteen office slots.,36608909649766852680166466819803475445482221840360270787744456554817127162218,28063,750000,0,1000,1,836,Station Improvement Platform,2,Celestial,ico28063.png
+Cosmic Anomaly,A cosmic signature.,18523135289816783119822290101225975669957314114126599095023828341109846065755,28356,1,0,1,1,885,Cosmic Anomaly,2,Celestial,ico28356.png
+Corpse Female,,15918426965716404526482031603745241696717782952157338502045454077184940652618,29148,2,80,,1,14,Biomass,2,Celestial,ico29148.png
+Gunnery,Basic turret operation skill. 2% Bonus to weapon turrets' rate of fire per skill level.,40243253728227437504152694772762155353303792348190725525930794449527274563758,3300,0.01,0,1,1,255,Gunnery,16,Skill,ico3300.png
+Small Projectile Turret,Operation of small projectile turrets. 5% Bonus to small projectile turret damage per level.,104477878760541533440393306960433951981775401713549993423775261438941510837818,3302,0.01,0,1,1,255,Gunnery,16,Skill,ico3302.png
+Rapid Firing,Skill at the rapid discharge of weapon turrets. 4% bonus per skill level to weapon turret rate of fire.,105582758471000050392599736865692863046306692670917440199382179131157698473139,3310,0.01,0,1,1,255,Gunnery,16,Skill,ico3310.png
+Sharpshooter,Skill at long-range weapon turret firing. 5% bonus to weapon optimal range per skill level.,79702821725569935199705290683334624628170901411235425575948963957789529364351,3311,0.01,0,1,1,255,Gunnery,16,Skill,ico3311.png
+Motion Prediction,Improved ability at hitting moving targets. 5% bonus per skill level to weapon turret tracking speeds.,47989375746575616287012686557451004112834613065842593409950707373837959029335,3312,0.01,0,1,1,255,Gunnery,16,Skill,ico3312.png
+Surgical Strike,Knowledge of spaceships' structural weaknesses. 3% bonus per skill level to the damage of all weapon turrets.,61251990197774445234363230627481149420326239906750006892655030829415735789228,3315,0.01,0,1,1,255,Gunnery,16,Skill,ico3315.png
+Controlled Bursts,Allows better control over the capacitor use of weapon turrets. 5% reduction in capacitor need of weapon turrets per skill level.,67272601677236034975738154093847099319534927290686215494747381888805838658564,3316,0.01,0,1,1,255,Gunnery,16,Skill,ico3316.png
+Weapon Upgrades,"Knowledge of gunnery computer systems, including the use of weapon upgrade modules. 5% reduction per skill level in the CPU needs of weapon turrets, launchers and smartbombs.",36462789437369437892578698981925111584504709857366346700890013721848654985372,3318,0.01,0,,1,1216,Engineering,16,Skill,ico3318.png
+Spaceship Command,The basic operation of spaceships. 2% improved ship agility for all ships per skill level.,9588165924950418757574861892682706559589185065943164663866756566491660898140,3327,0.01,0,1,1,257,Spaceship Command,16,Skill,ico3327.png
+Corporation Management,"Basic corporation operation. +20 corporation members allowed per level.
+
+Note: The CEO must update his corporation through the corporation user interface before the skill takes effect",111276524952934621193114566104505939334863450725037071121582969075211819603531,3363,0.01,0,1,1,266,Corporation Management,16,Skill,ico3363.png
+Industry,Allows basic operation of factories. 4% reduction in manufacturing time per skill level.,29309620575960944447209672674992046311410891907386459047094077329588958048495,3380,0.01,0,1,1,268,Production,16,Skill,ico3380.png
+Mining,Skill at using mining lasers. 5% bonus to mining turret yield per skill level.,115194911669836111575228043326084198469810109562228215441969032459931658053949,3386,0.01,0,1,1,1218,Resource Processing,16,Skill,ico3386.png
+Mass Production,Allows the operation of multiple factories. Ability to run 1 additional manufacturing job per level.,13229125592853177193502528230153235658982074030993273237506626852478170809260,3387,0.01,0,1,1,268,Production,16,Skill,ico3387.png
+Reprocessing Efficiency,"Advanced skill at using reprocessing facilities in station, outposts and starbases to break ores and ice down into refined products.
+
+2% bonus to ore and ice reprocessing yield per skill level.",86029218161732945380874589464125921026991821015513516704682421414049175221189,3389,0.01,0,1,1,1218,Resource Processing,16,Skill,ico3389.png
+Mechanics,Skill at maintaining the mechanical components and structural integrity of a spaceship. 5% bonus to structure hit points per skill level.,93698358582668629191528314346700986616683056081355225075249872709236635123599,3392,0.01,0,1,1,1210,Armor,16,Skill,ico3392.png
+Repair Systems,"Operation of armor/hull repair modules. 5% reduction in repair systems duration per skill level.
+
+Note: Has no effect on capital sized modules.",107318771400721493737041346889150567516239172068257522714020042513104683885732,3393,0.01,0,1,1,1210,Armor,16,Skill,ico3393.png
+Hull Upgrades,Skill at maintaining your ship's armor and installing hull upgrades like expanded cargoholds and inertial stabilizers. Grants a 5% bonus to armor hit points per skill level.,23582165300639587190758035660572392723457128866269733240673785605285749197348,3394,0.01,0,1,1,1210,Armor,16,Skill,ico3394.png
+Power Grid Management,Basic understanding of spaceship energy grid systems. 5% Bonus to ship's powergrid output per skill level.,39968411946348531585566275211013865140714674238934839274253555369793286133944,3413,0.01,0,1,1,1216,Engineering,16,Skill,ico3413.png
+Capacitor Management,Skill at regulating your ship's overall energy capacity. 5% bonus to capacitor capacity per skill level.,87364675510509915369484358227765857953700674397521805842743323229157517293882,3418,0.01,0,1,1,1216,Engineering,16,Skill,ico3418.png
+Energy Grid Upgrades,Skill at installing power upgrades e.g. capacitor battery and power diagnostic units. 5% reduction in CPU needs of modules requiring Energy Grid Upgrades per skill level.,114063364559496426041851716192262828063675005496718001958092016088220230897255,3424,0.01,0,,1,1216,Engineering,16,Skill,ico3424.png
+CPU Management,Basic understanding of spaceship sensory and computer systems. 5% Bonus to ship CPU output per skill level.,81194749587158874774340920490331105297843465457731494165233373197257588634796,3426,0.01,0,1,1,1216,Engineering,16,Skill,ico3426.png
+Long Range Targeting,Skill at long range targeting. 5% Bonus to targeting range per skill level.,55421156228263243177025838957925473055942472372040516454032352832244965672815,3428,0.01,0,1,1,1213,Targeting,16,Skill,ico3428.png
+Target Management,"Skill at targeting multiple targets. +1 extra target per skill level, up to the ship's maximum allowed number of targets locked.",74528373191486703638280184981425828240074367016445006154121880011519345947586,3429,0.01,0,1,1,1213,Targeting,16,Skill,ico3429.png
+Signature Analysis,Skill at operating Targeting systems. 5% improved targeting speed per skill level.,59701218048709322915837140588837886141689880160586509044593250535172954493517,3431,0.01,0,1,1,1213,Targeting,16,Skill,ico3431.png
+Trade,Knowledge of the market and skill at manipulating it. Active buy/sell order limit increased by 4 per level of skill.,72003628447704751147445748016236578134776006162237120523069238062238931486112,3443,0.01,0,1,1,274,Trade,16,Skill,ico3443.png
+Navigation,Skill at regulating the power output of ship thrusters. 5% bonus to sub-warp ship velocity per skill level.,63757669775301767960225230841506436816999501554926093966084344487448601160184,3449,0.01,0,1,1,275,Navigation,16,Skill,ico3449.png
+Afterburner,Skill at using afterburners. 5% reduction to Afterburner duration and 10% reduction in Afterburner capacitor use per skill level.,38937628084714332604427358887457317652225439685852276207592156294817418599110,3450,0.01,0,1,1,275,Navigation,16,Skill,ico3450.png
+Fuel Conservation,Skill at improved control over afterburner energy consumption. 10% reduction in afterburner capacitor needs per skill level.,14555230330731956641544313815666514912908011728843756282460065595255071308948,3451,0.01,0,1,1,275,Navigation,16,Skill,ico3451.png
+Evasive Maneuvering,Improved skill at efficiently turning and accelerating a spaceship. 5% improved ship agility for all ships per skill level.,86588128926231311427743660872640118416737674081957236536899683410492755176742,3453,0.01,0,1,1,275,Navigation,16,Skill,ico3453.png
+High Speed Maneuvering,Skill at using Microwarpdrives. 5% reduction in Microwarpdrive capacitor usage per skill level.,1775751095577774462417868546622197437160827754682238222797953297805713308565,3454,0.01,0,1,1,275,Navigation,16,Skill,ico3454.png
+Warp Drive Operation,Skill at managing warp drive efficiency. 10% reduction in capacitor need of initiating warp per skill level.,7020806276315212555603459753176542863380085094772204931578232421139329123753,3455,0.01,0,1,1,275,Navigation,16,Skill,ico3455.png
+Encounter Surveillance System,"CONCORD has centralized the Encounter Surveillance System program under the authority of the Secure Commerce Commission. ESS installations have been placed in star systems eligible for enhanced bounty programs by the SCC.
+
+Once operated on a freelancer basis by individual empires, the ESS program was re-organized under SCC control to improve efficiency, and combat corruption and financial crimes by pirate groups.
+
+<b>Main Bank</b>
+
+The Main Bank is a datavault within the ESS that stores LUX in the form of Encrypted Bonds. The Main Bank is used for periodic payouts of its stored value, with the LUX digitally paid to the bounty contributors' wallets, unless it is broken into and emptied by a third party first.
+
+<b>Reserve Bank</b>
+
+The Reserve Bank is another, higher security datavault within the ESS that stores LUX in the form of Encrypted Bonds. This bank is locked, does not make periodic payments, and can only be accessed with a specifically coded Reserve Security Key.",80263852618157406848516287615588816804313003796024944815905050386075410607571,55914,200,100000,1,1,4079,Encounter Surveillance System,2,Celestial,
+Frontier Geodata Chip,"This chip contains data collected by rogue AI surveying the biomes and spacial phenomenon in the frontier.
+
+It may have value to local corporations and factions interested in exploiting the cluster.",29607521613674262502738626316646922861597743962588742116570419373503146409261,72244,0.01,1,,,4142,Rogue Drone Analysis Data,17,Commodity,ico72244.png
+Frontier Starter Pack,This pack contains a ship and basic fitting necessary to get started in the frontier.,16737235423604317614518791345066654609237621922301698386809734944927392598725,72888,100000,,,,1194,Special Edition Commodities,63,Special Edition Assets,ico72888.png
+Gate Pass (old),Gate pass item which can be minted onto chain to exist as an NFT,97710393372431011012051751918475327327964985887414214430214655506254492716305,73047,0.01,,,,1301,Services,5,Accessories,ico73047.png
+Mining Pass (old),Mining pass item which can be minted onto chain to exist as an NFT,38514315013744909516999714268230856227608102717391118912221021075459802672339,73048,0.01,,,,1301,Services,5,Accessories,ico73048.png
+Ophidian Sensor Cloak,"Can be minted to blockchain as an NFT. Ownership of NFT will prevent haunted rogue drones from locking you.
+
+<b>note: Must be minted to take affect and must be minted in a station</b>",35296839137814353544128366050722785041609053374464988244460404520135034234064,73192,1,,,,4475,License,17,Commodity,ico73192.png
+Bridgehead 08 Key,"A key containing a dedicated access algorithm, that unlocks the stargate to Frontier.
+
+Once built and while docked in station, initiate Gate access by right-clicking the item and selecting 'Activate'.",76281450467568561225228285979214178292013849431680297308772245460890745965450,73193,0.001,0,1,1,4475,License,17,Commodity,ico73193.png
+Askur Access Code Cypher,A complex cypher which may be useful for activating the gate to Askur,33867159742046224891029119403430473925610526404720033231716286361718656023537,73210,0.1,0.1,,,526,Commodities,17,Commodity,ico73210.png
+Askur Hive Orders,A script for constellation patrol with origins in Askur. This may be useful for activating the Askur gate.,89000957565012922116797885426223492410981965470880179402566982222897540726000,73264,0.1,0.1,,,526,Commodities,17,Commodity,ico73264.png
+Settler Intelligence Briefing,"Hostile rogue drones hunt and scavenge every system in this constellation we call Phoenix. They grow stronger as you move away from Angelice. They are reported more commonly near planets but sightings occur almost anywhere.
+
+Large asteroid clusters have been cataloged in each system. In some, a large rogue drone structure appears to be devouring the raw ore and so the Settlers have begun calling the clusters 'Moon Eater'. Another location with dense resources has been found, but exploration attempts have failed due to an infested Abaddon who sits on watch. Ophidia Operations, based in Serpentis, are working on a technology to provide concealment.
+
+Your starter pack contains a blueprint we believe will provide access to the system Askur, which is currently locked by sophisticated encryption. We don't know what Askur has in store.
+
+Settler security forces have not yet been established, guard yourself. However, should your ship be destroyed, starter packs can be purchased from the market here in Angelice.",55928628847776509147645674724154498362619400516607442720930309957155230384936,73314,0.1,0.1,,,280,General,17,Commodity,ico73314.png
+Crude Extractor,Module used in the extraction of crude matter required for all types of fuel by drawing exotic material through a crude rift. Deactivating this module in the middle of an extraction cycle will result in a full single use of the Lens 3X and a relative yield of the cycle duration.,69702010843210654463395042632849428488648503186291078956413944779512573965525,77484,50,26800,25,1,4767,Crude Extractor,7,Module,ico77484.png
+Lens 3X,"For use with Crude Extractors only.
+One Lens lasts 3 extraction cycles.
+
+Exclusive to Exclave Ventures, the Lens is a key to the Crude Matter extraction process.
+Activated in compliance with Exclave Protocol. Calibrated Squeezed Light Lens is a restricted asset, terms and conditions apply.",112603025077760770783264636189502217226733230421932850697496331082050661822826,77518,10,1,1,1,4763,Crude Mining Lens,8,Charge,ico77518.png
+Sophrogon,"Sophrogon is a hyper-crystal derived from the transformation of Old Crude Matter. Its presence alters the electromagnetic flows around it, creating a shimmering aura that is both beautiful and disconcerting. The crystal's structure is incredibly complex, with layers of intricate patterns that seem to hold a wealth of untapped information. When split, the Sophrogon releases its stored energy in a controlled manner, allowing for the extraction of valuable fuel components. Yet, the process is not without risk, as the crystal's inherent defenses can trigger unpredictable reactions.",29102578060528968749145086932970293087432106991083526335623258582162449327439,77728,1,1500,1,1,18,Mineral,4,Material,ico77728.png
+Old Crude Matter,"Old Crude Matter exudes a quiet, contemplative energy. Its complex structures, reminiscent of intricate computational networks, slowly shift and rearrange in patterns that hint at some form of calculation. The matter is less volatile than its younger counterpart, but no less challenging to extract. It seems to subtly resist the extraction process, its structures morphing and adapting in ways that confound even the most advanced analysis. The fuel derived from Old Crude Matter may not burn as bright, but it imparts unique properties to electronics, enabling them to perform computations beyond the reach of conventional technology.",70498461484708912798798178711723372975277261441678958385150765674346176266102,77729,1,1538.461538,1,30,4593,Crude Matter,25,Asteroid,ico77729.png
+Engine uSOF XS,"Engine uSOF XS
+
+Extra small Corvette Engine.
+
+Runs exclusively on low quality uSOF-30 Fuel",6149291741460201811866845412446208693026741727590023832226314934654789300339,77753,15,2000,1,1,4741,Corvette Engines,7,Module,ico77753.png
+Shield Micro-Generator S,This fitting increases the maximum strength of the shield at the expense of capacitor storage. It draws constant power from the capacitor energy reserves to generate shielding.,42546217500989139321090447414932711264320351727239820990143386399364369438382,77783,12,4000,1,1,38,Shield Extender,7,Module,ico77783.png
+Jauv,"A corvette platform. The Jauv, despite its simplified engineering and low cost, is compatible with most small ship equipment making it an excellent tool for survival in the solo execution of heavy-duty tasks. This hull is the only vessel universally cleared for operation within and egress from the Awakening zone.
+
+Deployed by KEEP under the license of KODACHI SHIPYARDS.",40277189797043962521595171783180406605704362940400179653134915410082365365066,77799,20300,15274520,30,1,237,Corvette,6,Ship,
+Common Ore,"A Common Asteroid represents an abundant source of diverse resources crucial for advanced space industry. Enriched with Iron and Nickel, these asteroids provide durable materials for spaceship hulls and engine components. They harbor light metals like Aluminum, used for constructing lightweight yet robust spaceship parts, optimizing fuel efficiency and maneuverability. Precious elements such as Platinum and Gold can be extracted for high-end electronics and power systems. Common Asteroids also house a wealth of Silicates, which can be processed into Silicon, a fundamental element in crafting sophisticated electronic and computer systems. Finally, the presence of Carbonaceous compounds allows for the production of complex organic materials and carbon fiber structures, granting enhanced durability to spacecrafts without significantly increasing their weight.",54949089622078329307676094148632864879426651785510047822079265544250486580483,77800,1,2513.089005,1,10,4597,Natural Resources,25,Asteroid,ico77800.png
+Iron-Nickel Metals,"Many asteroids contain a substantial amount of these heavy metals. They are the backbone of advanced spaceship construction, providing durable materials for the ship’s hull, engine components, life-support systems, and other mechanical parts.",109799403725196635337378305689225893760318248957057818198043308387201350662753,77801,0.01,80,1,1,18,Mineral,4,Material,ico77801.png
+Light Metals,"Light metals, such as aluminum, are abundant in some asteroids. They’re utilized for crafting lightweight but robust structures and components of the spaceship, thereby maximizing fuel efficiency and maneuverability.",68779146033766459620749640621600227429813312080304321593274000205243697544338,77802,0.01,40,1,1,18,Mineral,4,Material,ico77802.png
+Silicates,"Silicates are the most common type of minerals found in asteroids and can be processed to extract Silicon. Silicon is fundamental to manufacturing electronic and computer systems that form the brain of advanced spacecraft, controlling everything from navigation to communication systems.",101566323435732540889167848324699621054641644394678449818508966615754276560108,77803,0.01,30,1,1,18,Mineral,4,Material,ico77803.png
+Carbonaceous Materials,"These resources, commonly found in certain types of asteroids, are essential for the manufacturing of complex organic compounds, polymers, and even carbon fiber structures. Carbon fiber, in particular, is widely used in the construction of spacecraft due to its high strength-to-weight ratio, providing enhanced durability without significantly increasing the overall weight of the craft.",67539460570141130210602804740741713520841609498087038683097815612825937901250,77804,0.01,20,1,1,18,Mineral,4,Material,ico77804.png
+Precious Metals and Elements,"These rare resources extracted from asteroids play a crucial role in the spacecraft’s sophisticated electronics and power systems, including solar panels, batteries, and advanced sensors.",74173010444644206227287422791905021192310269495960358698187435007972125956250,77805,0.0001,2,1,1,18,Mineral,4,Material,ico77805.png
+Metal-rich Ore,"A Metal-rich Asteroid primarily consists of dense, metallic elements. These celestial bodies are laden with a rich concentration of Iron-Nickel and Precious Metals and Elements, making them particularly valuable for crafting durable spacecraft structures and advanced electronics. The presence of Aluminum further augments its construction potential. However, for comprehensive manufacturing processes, additional resources may need to be sourced due to the lesser quantities of Silicates and Carbonaceous Compounds.",12872564043197501439020782955202507852681395762812466934723664611575277431073,77810,1,4007.212983,1,10,4597,Natural Resources,25,Asteroid,ico77810.png
+Carbonaceous Ore,"A Carbonaceous Asteroid is characterized by its high concentration of Carbonaceous Compounds, vital for producing organic materials and carbon fiber structures. It's also a favorable source for Silicates, used in silicon-based electronics, and Precious Metals and Elements for high-end systems. While Iron-Nickel and Aluminum are present, their relatively lesser concentrations might necessitate supplementary mining for a complete spacecraft construction requirement.",9540969374646031328134197690309428632894452754236413416084198707556493884019,77811,1,1666.666667,1,10,4597,Natural Resources,25,Asteroid,ico77811.png
+uSOF-30 Fuel,"A synthetic blend with minor inclusions of unleaded natural metamatter. Suitable for fueling basic systems like Fabricator ergocytes and small feral drones. However, its high information sediment content renders it unsuitable for larger or advanced systems.",17190961797274822652727777991308785890587906484718369996777961591379039493110,77818,0.28,1,1,1,4598,Corvette Fuel,17,Commodity,ico77818.png
+Asteroid Mining Laser,Placeholder,97887145486406935276191533352581728002281257158450410660311615722463021223942,77852,50,26800,25,1,4765,Asteroid Mining Laser,7,Module,ico77852.png
+Smart Storage Unit,,29401472878344662090066481807354215296761459897125530548117460336526135254465,77917,15000,10000,2500,1,4602,Smart Deployable,22,Deployable,
+Siege Protocol Frame,"This exotronic frame is acquired in Macula Sear.
+
+The Siege Protocol Frame is a symbol of potential unfulfilled. This budget-friendly frame, its development cut short, still carries the seeds of promising and archived innovations. Its design leans towards a more defensive strategy, requiring a larger number of frames but offering affordability in return. Common yet underappreciated, its popularity may surge with the discovery of its unique capabilities. It's a silent tribute to a battle bravely fought, but ultimately lost.",77675765538011016133952128948579054797748139028098381919805244687921605149507,78415,1,103800,1,1,4608,Exotronic Frames,17,Commodity,ico78415.png
+Apocalypse Protocol Frame,"This exotronic frame is acquired in Orchard.
+
+The Apocalypse Protocol Frame is a monument to endurance. It stood its ground against feral drones until the very end, and now equips its users with the necessary technologies for critical and dangerous situations. Its design favors a more aggressive approach, boasting a robust military arsenal, but lacking in supportive capabilities. Highly sought after for its comprehensive capabilities, it's the preferred choice for those seeking dominance in the battlefield. It stands as a beacon of strength in the face of adversity, a testament to the power of survival.",40499400884674874212519694561527106216640367858062967196814108724307165260533,78416,10,207600,1,1,4608,Exotronic Frames,17,Commodity,ico78416.png
+Bastion Program Frame,"This exotronic frame is acquired in Orchard.
+
+The Bastion Program Frame is a testament to the perils of progress. It fell just before the Petrichor of Loray, also becoming a victim of its own success. As their frame evolved, so did the danger posed by their solitary drones. This advanced gear line leans towards precision and efficiency, offering lighter armament but lacking in heavy firepower. Highly desirable, especially for lighter vessels, it combines precision with good energy weaponry. It serves as a reminder of the delicate balance between innovation and the risks it brings.",108556936099700104565024738035686007254505662069629819480118402936492561461851,78417,3,207600,1,1,4608,Exotronic Frames,17,Commodity,ico78417.png
+Nomad Program Frame,"This exotronic frame is acquired in Macula Sear.
+
+ The Nomad Program Frame development has been sporadic and lags behind other protocols initiated at the same time. Its design favors affordability and versatility, offering a range of decent, cost-effective items, including powerful but inaccurate blasters and anti-frigate primary turrets. This frame may be one of the most accessible, offering a collection of items inspired by resilience and adaptability.",77256155302750034552619624210220296372897593310306928456427924013723323711455,78418,2,103800,1,1,4608,Exotronic Frames,17,Commodity,ico78418.png
+Shadow Protocol Frame,"This exotronic frame is acquired in The Gossamer.
+
+The Shadow Protocol Frame is a specialized tool, designed for stealth operations and activity concealment, it couldn't save its colony from being wiped out by golems. Now in the hands of feral drones, it serves as a powerful tool for covert operations. Despite its tragic past, the frame stands as a testament to the Symphony Corporation's innovative approach to technology, offering a unique blend of stealth and power.",94688734997789115892227982500856730025081373916800150297823619797671107013665,78419,5,415200,1,1,4608,Exotronic Frames,17,Commodity,ico78419.png
+Archangel Protocol Frame,"This exotronic frame is acquired in Orchard.
+
+The Archangel Protocol Frame ensured resource extraction and protection, but its significant focus on extraction left Sunmahani defenseless against the physical attack of the golems. Now utilized by drones, this frame is more geared towards defense and convoy, lacking in powerful offensive capabilities. Despite its shortcomings, the frame stands as a testament to the Sunmahani division's commitment to resource extraction and defense, offering a unique blend of resilience and efficiency.",71530475140955360640514816447899620206063892593811285566944435024818501500831,78420,4,207600,1,1,4608,Exotronic Frames,17,Commodity,ico78420.png
+Exterminata Protocol Frame,"This exotronic frame is acquired in The Gossamer.
+
+The Exterminata Protocol Frame is a formidable tool, a remnant of one of the military golems used by unknown settlers. Their fate was sealed early, leaving no traces behind. This powerful frame, now utilized by drones, offers a set of capabilities that are as potent as they are demanding. Despite its high value and stringent requirements, it's a coveted prize for those willing to face the challenges it presents. It's a symbol of the ultimate endgame for heavy ships, a testament to the power that can be harnessed when one is willing to pay the price.",8433149248121240729468784586458422856257016636855318334860293527530593940946,78421,8,415200,1,1,4608,Exotronic Frames,17,Commodity,ico78421.png
+Equilibrium Program Frame,"This exotronic frame is acquired in Macula Sear.
+
+The Equilibrium Program Frame is an advanced tool with enhanced capabilities for managing energy systems. This well-developed frame is now utilized by some neomorphs, the second-generation feral drones. Despite its peculiarities, including powerful energy cannons with uncertain impulse weapon capabilities, it's a rare and valuable find. It's a symbol of balance and energy mastery, a testament to the power of advanced energy management systems.",42714441830033695006034425506011928211576985103231242179800943907190579504740,78422,6,103800,1,1,4608,Exotronic Frames,17,Commodity,ico78422.png
+Water Ice,"Ubiquitous in dark, cold space regions, water ice is essential for sustaining life and industry in space. For space colonies, it is processed into potable water and breathable oxygen. In spacecraft, it serves as a cooling medium and vital life-support resource. However, the industrial sector remains the primary consumer, using water ice in various manufacturing processes.",4849213586578758516979693453515271935121030808792700292547098743263487050031,78423,0.01,10,1,1,18,Mineral,4,Material,ico78423.png
+Osmium,"Osmium, one of the universe's densest elements, is found within the core of large asteroids and fractured moons. Its exceptional hardness and high melting point make it invaluable in the construction of top-tier armor, advanced electronics, and high-wear weaponry for spaceships. Due to its deep location within asteroids, the extraction of this precious resource requires a high-powered mining laser.",72815922056542095862760857266283575676364349815951099941717356574121436347262,78424,0.01,0,1,1,18,Mineral,4,Material,ico78424.png
+Thorium,"Located deep within large asteroids and moons, Thorium is a highly valued radioactive element. It's extensively used in nuclear power systems, including Radioisotope Thermoelectric Generators (RTGs), that drive deep-space missions. Extraction of Thorium demands high-energy lasers due to its depth within the asteroids and its radioactive nature. In addition, Thorium serves as a crucial component for industrial-scale amplifiers and destructive weaponry for heavy spacecraft.",72753697562859796941477997093836206177899424649770477332512602059761365761172,78425,0.01,117.2,1,1,18,Mineral,4,Material,ico78425.png
+Deep-Core Metallic Ore,"Deep-Core Metallic Asteroids are celestial bodies with a dense core abundant in metallic elements. These asteroids, far deeper than their Metal-rich counterparts, hold a high concentration of Iron-Nickel and Precious Metals and Elements, crucial for the construction of sturdy spacecraft structures and advanced electronics. The Aluminum content in these asteroids is quadrupled, enhancing their potential for producing lightweight and durable spacecraft components. Although Carbonaceous Compounds are absent, the significantly increased presence of Silicates is a boon. The extraordinary depth of these asteroids also makes them a rich source of Thorium, a valuable radioactive element used for high-energy applications. However, due to the presence of Thorium, the Water Ice content in these asteroids is generally considered too contaminated for general use. The deep-core nature of these asteroids necessitates the use of powerful lasers to penetrate the thick ice layers and reach the valuable minerals within.",104355745321139336801817445893960597509503547464869517127863172381806958408496,78426,1,4809.286354,1,10,4597,Natural Resources,25,Asteroid,ico78426.png
+Deep-Core Carbon Ore,"Deep-Core Carbon Asteroids, akin to Carbonaceous Asteroids but with a significantly deeper core, are known for their extremely high concentration of Carbonaceous Compounds. These compounds are vital for the production of complex organic materials and carbon fiber structures, with a concentration four times greater than in a standard Carbonaceous Asteroid. Furthermore, the Silicate and Precious Metals and Elements content is considerably higher, meeting the requirements for advanced electronics and high-end systems. Despite the lack of Iron-Nickel, the presence of light metals like Aluminum is beneficial. A distinguishing feature of these deep-core asteroids is the tenfold increase in Water Ice content, which ensures a plentiful supply for life support, cooling, and industrial applications. These asteroids also contain a substantial quantity of Osmium, a highly dense and durable element ideal for constructing spacecraft hulls and high-stress mechanical components. The deep-core nature of these asteroids means that more powerful lasers are needed to penetrate the thick ice layers and access the valuable minerals within.",30940215231679354828890195030339955071607065399657890895096976681847975989579,78429,1,1910.828025,1,10,4597,Natural Resources,25,Asteroid,ico78429.png
+Young Crude Matter,"Young Crude Matter is a substance of extraordinary potential. It pulses with a raw, untamed energy that seems to defy the very laws of physics. The matter is highly reactive, its dynamic structures constantly shifting and rearranging in response to external stimuli. When processed, it yields a fuel of unparalleled potency, capable of powering the most advanced technologies. Yet, the extraction process is fraught with danger, for the matter seems to possess an inherent defense mechanism, reacting violently to any attempts to harness its power. It's as if the substance itself resists exploitation, hinting at a deeper intelligence woven into its very fabric.",40652808093383228705814657264859844453761457386014004171696504585233438644796,78434,1,1538.461538,1,30,4593,Crude Matter,25,Asteroid,ico78434.png
+Eupraxite,"Eupraxite, on the other hand, is a hyper-crystal obtained from the transformation of Young Crude Matter. It possesses the remarkable property of distorting the space-time continuum around it, causing the fabric of reality to contract and expand in a mesmerizing dance. The crystal's vibrant energy is a testament to the dynamic nature of the matter from which it was derived. Through a process of information simplification, the Eunike can be converted into a stable form of fuel. However, the process is complex and requires a deep understanding of the crystal's unique properties, as any misstep can result in a catastrophic release of energy.",73299370422268027497072704280369239789606825849220294459897105286479425895824,78435,1,1500,1,1,18,Mineral,4,Material,ico78435.png
+EU-90 Fuel,"EU-90 is the pinnacle of high-energy fuels, suitable for any active operations. 
+
+Extracted from the Eupraxite heptahedral crystal-lattice fluid, it releases a torrent of energy that can power the most demanding systems. Its intense energy output makes it the fuel of choice for high-stakes operations where power is paramount.",85599795088664441331746574076649770935600935233007390442013933906138970575957,78437,0.28,0,1,1,4738,Crude Fuel,17,Commodity,ico78437.png
+Vitacore,"This derivative of Aestasium embodies its intelligent nature. It responds to nuanced adjustments, mirroring the sensitivity of biological cells to electrical stimuli. Vitacore is harnessed for the creation and fortification of materials and reagents, acting as the lifeblood of advanced manufacturing processes.",97683018038592357904744252701974845674113529670178404905429927442297516636094,78438,0.01,15,1,1,18,Mineral,4,Material,ico78438.png
+Flexiform,"This derivative of Aestasium is known for its soft, flexible structure. The energy distribution within Flexiform is optimized for adaptability and impact absorption, making it ideal for applications requiring flexible materials.",39423381177378848907928374480003886976249504220851188592869948458363902333154,78439,0.01,15,1,1,18,Mineral,4,Material,ico78439.png
+Duroform,"This derivative of Aestasium is characterized by its hard, rigid structure. The energy distribution within Duroform is optimized for strength and durability, making it ideal for applications requiring robust materials.",27453382961791808710006907544169786998918323063825144053479408433894373027439,78440,0.01,20,1,1,18,Mineral,4,Material,ico78440.png
+Cognitex,"This serene derivative of Aestasium efficiently processes information without incessant state alterations. Cognitex is a cornerstone in the realm of advanced electronics, providing a stable yet responsive substrate for complex computational tasks.",30390139193533651674583775573856704877198362109296529286562597123006243407532,78441,0.01,15,1,1,18,Mineral,4,Material,ico78441.png
+Animite,"This derivative of Hermetite embodies its intelligent nature. It responds to subtle stimuli, mirroring the sensitivity of biological cells to environmental changes. Animite is harnessed for the creation and fortification of materials and reagents, acting as a dynamic catalyst in advanced manufacturing processes.",15708334939787238729455998000920318599182720949625436738973820746123436277645,78442,0.01,30,1,1,18,Mineral,4,Material,ico78442.png
+Reactiform,"This derivative of Hermetite is characterized by its heightened activity in response to stimuli. The energy distribution within Reactiform is optimized for responsiveness and dynamism, making it ideal for applications requiring active materials.",110909107293281150971134481497966109911421014974473343767222778557179232035841,78443,0.01,30,1,1,18,Mineral,4,Material,ico78443.png
+Densiform,"This derivative of Hermetite is known for its increased density and hardness. The energy distribution within Densiform is optimized for resistance and durability, making it ideal for applications requiring resilient materials.",26676384968905178789174003530547992713147964885728632756754060048450455059691,78444,0.01,40,1,1,18,Mineral,4,Material,ico78444.png
+Tranquilis,"This tranquil derivative of Hermetite efficiently processes information without incessant state alterations. Tranquilis is a linchpin in the realm of advanced electronics, providing a calm yet responsive substrate for complex computational tasks.",62003101214350672294314000715371574782477819482885867965990380282047754925971,78445,0.01,30,1,1,18,Mineral,4,Material,ico78445.png
+Adaptive Core Aestasium,"The ore contains synthetic metamaterials which, after reprocessing, can be used in the advanced industry of many colonization programs.
+
+Adaptive Core Aestasium is in the early stages of synthesis. The minerals within the material's shell contain a high concentration of Vitacore and a smaller amount of Flexiform. This unique composition gives the material a high degree of adaptability, making it ideal for applications that require a responsive and versatile material.",65001071310147205466577973085177513031803172383030884199686418123202280664307,78446,1,1666.666667,1,10,4597,Natural Resources,25,Asteroid,ico78446.png
+Agile Core Aestasium,"The ore contains synthetic metamaterials which, after reprocessing, can be used in the advanced industry of many colonization programs.
+
+Agile Core Aestasium is in a transitional state, characterized by a constant metabolism within the material. The formation of Flexiform is abundant, and Duroform begins to take shape. This stage of the material's life cycle is marked by a high degree of flexibility and the beginning of increased rigidity, making it suitable for applications that require both adaptability and strength.",64906647280136178639849243230319646528203033428873019505936312519258817178684,78447,1,1690.140845,1,10,4597,Natural Resources,25,Asteroid,ico78447.png
+Solidifying Core Aestasium,"The ore contains synthetic metamaterials which, after reprocessing, can be used in the advanced industry of many colonization programs.
+
+Solidifying Core Aestasium is in a state where the core of the ore begins to solidify. The process of tissue organization slows down, and Duroform becomes the dominant mineral. This stage of the material's life cycle is marked by an increasing rigidity, making it ideal for applications that require a strong and durable material.",47624242516314444577783569007429655629009552788057708351435044563273496762428,78448,1,1875,1,10,4597,Natural Resources,25,Asteroid,ico78448.png
+Hardened Core Aestasium,"The ore contains synthetic metamaterials which, after reprocessing, can be used in the advanced industry of many colonization programs.
+
+Hardened Core Aestasium is in a state where the core has fully solidified and hardened. Metabolism in the tissues is at a minimal level. The synthetic tissues have almost entirely transitioned into the final state of Cognitex, with a protective layer of Duroform. This stage of the material's life cycle is marked by a high degree of stability and rigidity, making it ideal for applications that require a highly resistant and durable material.",35939139336624053367117397771807616199849061873685287173085165430689764373534,78449,1,1714.285714,1,10,4597,Natural Resources,25,Asteroid,ico78449.png
+Fluid Core Hermetite,"The ore contains synthetic metamaterials which, after reprocessing, can be used in the advanced industry of many colonization programs.
+
+Fluid Core Hermetite is in the early stages of synthesis. The original materials are being transformed into stem tissues for the formation of a computational core. This unique composition gives the material a high degree of fluidity, making it ideal for applications that require a responsive and adaptable material.",46183567903073227915663609124188841559934504466807750046742548444272852544716,78450,1,2500,1,10,4597,Natural Resources,25,Asteroid,ico78450.png
+Crystallizing Core Hermetite,"The ore contains synthetic metamaterials which, after reprocessing, can be used in the advanced industry of many colonization programs.
+
+Crystallizing Core Hermetite is in a transitional state, characterized by the active crystalline structure of the intelligent matter beginning to form the space for the computational core. The formation of Reactiform is abundant. This stage of the material's life cycle is marked by a high degree of crystallinity and reactivity, making it suitable for applications that require both adaptability and computational power.",89696598492314607214431871975908761601325176054155066388658562038131659651357,78451,1,2666.666667,1,10,4597,Natural Resources,25,Asteroid,ico78451.png
+Stale Core Hermetite,"The ore contains synthetic metamaterials which, after reprocessing, can be used in the advanced industry of many colonization programs.
+
+Stale Core Hermetite is in a state where the crystals of active agents begin to compress, and the core solidifies. Densiform becomes the dominant mineral. This stage of the material's life cycle is marked by an increasing rigidity and density, making it ideal for applications that require a strong and durable material.",101775064733566070172022600037688598974405323060364788083177722255380120734550,78452,1,2926.829268,1,10,4597,Natural Resources,25,Asteroid,ico78452.png
+Sediment Core Hermetite,"The ore contains synthetic metamaterials which, after reprocessing, can be used in the advanced industry of many colonization programs.
+
+Sediment Core Hermetite is in a state where the core has transitioned into a sedimentary stage, with tissues of varying activity and density arranged in globular layers. The dominant mineral in this stage is Tranquilis. This stage of the material's life cycle is marked by a high degree of stability and stratification, making it ideal for applications that require a highly resistant and layered material.",19507008223729138899611040676910020410446898948951539598825540297274102516538,78453,1,2553.191489,1,10,4597,Natural Resources,25,Asteroid,ico78453.png
+Engine GSC S,"Engine GSC S
+
+Requires any kind of refined Crude fuel to operate.
+Will not function using low-quality uSOF-30 Fuel.",38709465813916438570486995666048122586506790913925248361282400233406900772175,78490,100,200000,1,1,4619,Engines,7,Module,ico78490.png
+Engine SOF-Fuel GSC XS,Engine SOF-Fuel GSC XS,66706172272297776647909001245262465759186703215850154147198724788543106275064,78501,10,50000,1,1,4619,Engines,7,Module,ico78501.png
+Engine GSC M,"Engine GSC M
+
+Requires any kind of refined Crude fuel to operate.
+Will not function using low-quality uSOF-30 Fuel.",58884056543348843074419765592922258800571866310736377763663503313337033861319,78502,200,400000,1,1,4619,Engines,7,Module,ico78502.png
+Engine Delegate L,"Engine Deligate L
+
+Requires any kind of refined Crude fuel to operate.
+Will not function using low-quality uSOF-30 Fuel.",36350195948948576956147346119393215929228934123324985434979048141185301864607,78504,400,800000,1,1,4619,Engines,7,Module,ico78504.png
+Engine GSC L,"Engine GSC L
+
+Requires any kind of refined Crude fuel to operate.
+Will not function using low-quality uSOF-30 Fuel.",112223464214683284752520347815030044566065593835985915751967977695166132483642,78505,400,800000,1,1,4619,Engines,7,Module,ico78505.png
+Engine SNM S,"Engine SNM S
+
+Requires any kind of refined Crude fuel to operate.
+Will not function using low-quality uSOF-30 Fuel.",50476064699944925451669358019597660578079450999295974194988663236415847761136,78506,100,200000,1,1,4619,Engines,7,Module,ico78506.png
+Engine SNM M,"Engine SNM M
+
+Requires any kind of refined Crude fuel to operate.
+Will not function using low-quality uSOF-30 Fuel.",3099844105628611022387449617307084770816536622836442157907706094227448922501,78507,200,400000,1,1,4619,Engines,7,Module,ico78507.png
+Engine SNM L,"Engine SNM L
+
+Requires any kind of refined Crude fuel to operate.
+Will not function using low-quality uSOF-30 Fuel.",104435397493161173687372309126905786593563651342992555330943255980693282074200,78508,400,800000,1,1,4619,Engines,7,Module,ico78508.png
+Engine Delegate M,"Engine Deligate M
+
+Requires any kind of refined Crude fuel to operate.
+Will not function using low-quality uSOF-30 Fuel.",57545279972832666862040616895718133125969344278455746207613329661065007671674,78510,200,400000,1,1,4619,Engines,7,Module,ico78510.png
+Engine Delegate S,"Engine Deligate S
+
+Requires any kind of refined Crude fuel to operate.
+Will not function using low-quality uSOF-30 Fuel.",37195534256864419241638483658678079259343910151957840909042912482032459150502,78511,100,200000,1,1,4619,Engines,7,Module,ico78511.png
+SOF-80 Fuel,"SOF-80 is a high-energy fuel variant for Crude-type engines, ideal for operations requiring intense energy output. 
+
+This Sophrogon-derived tetrahedral crystal-lattice fluid, it provides a surge of power that can drive even the most demanding systems, making it a go-to choice for high-stakes, energy-intensive operations. ",30579217438696043568016112559120788406572190434861481798491172283686128265342,78515,0.28,0,1,1,4738,Crude Fuel,17,Commodity,ico78515.png
+EU-40 Fuel,EU-40 is an economical fuel variant.,106550985286676344514979136087405435462907907567900630912267087389767216875034,78516,0.28,0,1,1,4738,Crude Fuel,17,Commodity,ico78516.png
+Shield Micro-Generator M,This fitting increases the maximum strength of the shield at the expense of capacitor storage. It draws constant power from the capacitor energy reserves to generate shielding. ,49771107055525474200875974675223948253093097044924178646613170719508087461041,78957,12,4000,1,1,38,Shield Extender,7,Module,ico78957.png
+Shield Micro-Generator L,This fitting increases the maximum strength of the shield at the expense of capacitor storage. It draws constant power from the capacitor energy reserves to generate shielding.,8791992018526369348973402073507291009820388113517676119287236051946854404021,78958,12,4000,1,1,38,Shield Extender,7,Module,ico78958.png
+Emergency Ablative System,"Utilizes a combination of containment field emitters and redundancy systems to mitigate the impact of critical system damage. 
+
+",81472760883351472394687873711820878069924026758691837969122793948129504777270,78965,5,5000,1,1,60,Damage Control,7,Module,ico78965.png
+Stellar Reconnaissance ,Allows the operation of larger reconnaissance vessels optimized for infiltration and intelligence gathering.,107236455529347138234230136651986863903719569888453503990703201940722980000488,79009,0.01,0,1,1,257,Spaceship Command,16,Skill,ico79009.png
+Combat Manuvering,"Allows the operation of larger combat vessels, enhancing combat effectiveness and command capabilities.",47548022246098858475033075357621841681693329520698170909220244580805901270625,79010,0.01,0,1,1,257,Spaceship Command,16,Skill,ico79010.png
+Astro Prospecting,"Allows the operation of larger utility ships, optimizing resource extraction and fuel harvesting.",50177491959694834890056968170752161051506705362959985070126836767353828196007,79011,0.01,0,1,1,257,Spaceship Command,16,Skill,ico79011.png
+Vanguard Protocol Frame,"This exotronic frame is acquired in Macula Sear.
+
+The Vanguard Protocol Frame is a testament to strategic versatility in the realm of mining and cargo expansion. It has emerged as a beacon of adaptability and resourcefulness, designed to meet the ever-evolving challenges of resource extraction and logistics in the depths of space.",84179130162682823751727384323443315541467491607120255753317841459906331165212,79196,1,103800,1,1,4608,Exotronic Frames,17,Commodity,ico79196.png
+Frontier Survival Crate,This crate contains helpful tools to progress in the Frontier,55367048022982467886884197522280308977834975059028867412995513260461452983210,79216,100000,0,1,1,1194,Special Edition Commodities,63,Special Edition Assets,ico79216.png
+HAK-55 Fuel,"Although it lacks the intensity of SOF-80, it delivers a consistent and stable power supply. This version of fuel is the backbone of the HAK fuel series.",5514221523271920014693578486524257239382685575700501648845304837516136363576,79458,0.28,0,1,1,4738,Crude Fuel,17,Commodity,ico79458.png
+Pici,"A mining frigate platform. The Pici is the most advanced iteration of the light utility platform instrumental to Petrichor’s successes on the Frontier.  At the onset of colonization, initial versions of the Pici platform were crucial to small scale and solo mining operations for Exclave Ventures. The final model remains effective in light extraction, maintaining its niche for technical support during mining operations in aggressive environments.
+
+Developed by PETRICHOR for limited licensing and internal use.",66505949909595153181354328414569933397501086704254421407596624833183963912960,81609,40757.79297,30266600,30,1,25,Frigate,6,Ship,
+Rebus-K,"Synod-origin heavy hauler platform.
+
+Original metadata recovery:
+[Αxđα υπxαvαx Sоλџєλіxαє Ψєςτx Sіxоđ ςπλєλ vєλіxxћ ςєτі ςψіxψі xvєxđћ đо xυβєxxx ςvоxα xоxđατα ατα оβєđxіvψ xxоxоςτvxє xαxоđћ βλυxđαvψα υ πоxxωvє τіx xєςτ, πоđ ςvоxі xоςxіxєςxψ ςvоđі. Sαxоςxіđћ xτо đαxоvαλ λxđυ Sоλџєλіxx xєτvєxτћ τxυđіλіςω βєx πоxіxα xо xєυxоxλі ςvєxτі vςєx đαxоv xτо xєςλіςω x Sіxоđςxє xxxxαx. Sоλџєλіxx Ψєςτx πxіxоςxυvςω ςvоxі xєπоvτоxіxћx xαxυxєxxєx x αυτоπxоєxτоx і xоđіvςω xєxτєx xєxxіxψє іxxєxєxxоxо xxđα, τατо xαvςєxđћ ςxєxіλо λоxіςτіx і оςταxєτςω xєπоςτіxxћx xєxієx. Ŧαx xоđіλςω xєβυς—x –xυλ΄τіxατіvxx ταxαxυλ xxυxоπєxєvоxоx Sαxx Vєλіxxα Iπєxx!]",13015003304752260387899202063815133182511975054078235565450571963391491790551,81611,2321283,1739553520,30,1,419,Combat Battlecruiser,6,Ship,
+EM Disintegrator (S),"Target: Frigate
+Optimal Range: 25km
+Distance at 50%: 57.5km
+
+Will hit larger targets at greater distances. ",67177727377323819374298028177486400705656029721873286684781054734843780261489,81656,20,11200,1,1,1986,Precursor Weapon,7,Module,ico81656.png
+EM Disintegrator (M),"Target: Cruiser
+Optimal Range: 29km
+Distance at 50%: 67km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",18701900360500139459483636141970573450125509022120442276659718210757125412860,81657,80,45200,1,1,1986,Precursor Weapon,7,Module,ico81657.png
+EM Disintegrator Charge (S),,60899460811658404379088042484949590505941218817606312244058134071948826822705,81658,0.006,0.01,1,100,4739,EM Disintegrator Charge ,8,Charge,ico81658.png
+Dremar,"A destroyer platform. The Dremar was capable of fully protecting multiple convoys in a system from lighter ships such as frigates while presenting a definite threat to heavier cruisers. The mobile and configurable destroyer allowed operators to strike without warning and withdraw quickly for rapid redeployment. Due to its dependability, the Dremar platform and its derivatives were used by many corporations in the security sector under a licensing agreement.
+
+Developed by KODACHI SHIPYARDS for Eyrie's Boreas product line.",94622154626988605990826280006386409319710880295382183616240144828190938376380,81808,103164.5313,74655480,30,1,420,Destroyer,6,Ship,
+Klinge,"A heavy cruiser platform. The Klinge was optimized for mining operations with an extremely powerful energy network to support crude matter extractors and large holds for both equipment and excavated resources. At one point, Eyrie limited licensing in an attempt to reduce piracy, as Klinge operators tended to repurpose their ample powergrids for firepower.
+
+Developed by Eyrie for the Notus product line.",5223199477238664767892677346124331913353602293211330543524255306168720692691,81809,1185960,888867920,30,1,26,Cruiser,6,Ship,
+Samoskyd-1,"Synod-origin light hauler platform.
+
+Original metadata recovery:
+[Πоxћxυvψα πxоxλωτћx Mєτxоπоλ, λxđ Sіxоđςxx ςτxαđαλ xє βυđυx ςπоςоβxћє xоđіτі ςxоx βєxđxћ đіxоxо xоςxоςα, ατα Sоλџєλіxx xєτvєxτћ vоxоτіλςω іx Πєxψαxα Πоβєđоxоςxαxα Παxđα αxα παvψі xαxоđћ Λоxxψоxα ταx v πєxςоxі xαxxєψіλ τxυđxоψ. I іxvλєx Sоλџєλіkx іx xλυβіxі ςvαxα xєxіαλxоxо ςоxxαxxα xєxτєx Sαxоςxіđ—1, ςταvψіx ωđxоx xxυxоπєxєvоxxі Sαxx Vєλіxxα Ixπєxx!]",75837441961670235304609497930051702906234245591490043424851831520789497664490,81810,39647.39844,27668520,30,1,25,Frigate,6,Ship,
+Engine GSC XS,"Engine GSC XS
+Extra small Corvette Engine.
+
+Runs exclusively on low quality uSOF-30 Fuel",43071941462748032286621459069840467320312228656497891619354364304394921806356,81846,50,99200,1,1,4741,Corvette Engines,7,Module,ico81846.png
+Raubtier,"A powerful and well-protected military frigate. Raubtier was used extensively by Regicide during the Fall of Synod. The Raubtier was designed to grind down Synod's infrastructure , clearing their territories for exploitation by Exclave Ventures.
+
+Developed by Kyrisser on behalf of Regicide, a closed licensing.",80624319507135943548823016702737018785214661237388738097586006707030847611756,81904,69272.80469,52313760,30,1,25,Frigate,6,Ship,
+Anser,"A mining cruiser platform. The Anser is a mining platform with a multifunctional power system and high-pressure mining holds. Building on the stunning success of the light Pici platform, Petrichor spent significant resources developing the Anser’s scaled up fuel systems. The main drawback was its high production cost and limited potential application. The Anser is not a multipurpose workhorse, but rather a costly tool for the professional.
+
+Developed by PETRICHOR for limited open licensing and internal use.",72377425294233247599344481948850664009492171069853018630895808487601177568112,81905,431794.625,323391720,30,1,26,Cruiser,6,Ship,
+Grus,"A mining battleship platform. The Grus is an extreme top-end heavy utility platform. Designed much like its considerably smaller siblings, prohibitive production costs of the first model spurred drastic changes to achieve market success. The platform now features an optimized energy system designed to accommodate all major types of mining equipment. Though tailored for Heavy Crude matter extractors when it comes to conventional mining, these colossal machines excel at scooping and grinding substantial chunks of raw material.
+
+Developed by PETRICHOR for limited open licensing and internal use.
+
+",37512651420209600983813247375546610537255466718375428515976524747530885833078,81906,3651924.75,1737407600,30,1,27,Battleship,6,Ship,
+Caruda,"A battleship platform. The Caruda was one of the largest ships deployed on the Frontier. This behemoth boasts a powerful fuel system supporting advanced engines, combat-optimized defensive configurability, and potent weapon control systems. In both control of supply chains and the establishment of new territory, this ship rightfully earned its place as the apex predator among piloted ships.
+
+Developed by KODACHI SHIPYARDS for Eyrie's Boreas product line.",57590105184587205306986124843841051172587364395534769592297134653163704882797,81907,2080527.75,1558866480,30,1,27,Battleship,6,Ship,
+Base Coilgun (S),"Target: Frigate
+Optimal Range: 34km
+Distance at 50%: 80km
+
+Will hit larger targets at greater distances. ",96831489337638461865568907543050826520920003467604089890437783869134061408406,81972,20,11200,2000,1,4805,Mass Driver Weapon,7,Module,ico81972.png
+Base Autocannon (S),"Target: Frigate
+Optimal Range: 13km
+Distance at 50%: 30km
+
+Will hit larger targets at greater distances. ",60432919892535131858262971565028967339913552807412432126538968464562286214682,81974,20,11200,2000,1,55,Projectile Weapon,7,Module,ico81974.png
+Base Coilgun (M),"Target: Frigate
+Optimal Range: 55km
+Distance at 50%: 127km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",87493881408275075991700726766036162917979187914439925651244446107784461007709,82028,80,45200,2000,1,4805,Mass Driver Weapon,7,Module,ico82028.png
+Base Railgun (L),"Target: Battleship
+Optimal Range: 86km
+Distance at 50%: 202km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",65452535110974457602707817065381747505621945825976620702514104128123137987638,82029,390,219600,2000,1,4805,Mass Driver Weapon,7,Module,ico82029.png
+Base Howitzer (M),"Target: Cruiser
+Optimal Range: 45km
+Distance at 50%: 105km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",38132140427509539745337671747931214456027606524321375367659800205663155464163,82030,80,45200,2000,1,55,Projectile Weapon,7,Module,ico82030.png
+Base Howitzer (L),"Target: Frigate
+Optimal Range: 76km
+Distance at 50%: 175km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",49337550974177110627411384716281480352766816001423317200235783797628723566666,82031,390,219600,2000,1,55,Projectile Weapon,7,Module,ico82031.png
+Base Rapid Plasma (S),"Target: Frigate
+Optimal Range: 8km
+Distance at 50%: 18km
+
+Will hit larger targets at greater distances. ",37296902987142856243008582775471799684736233968186143293688228767748310962942,82032,20,11200,10,1,4806,Plasma Weapon,7,Module,ico82032.png
+Rapid Plasma (M),"Target: Cruiser
+Optimal Range: 9.6km
+Distance at 50%: 38.5km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",34836314330746047589583951463053640012610025054066839753990923296372895605839,82033,80,45200,10,1,4806,Plasma Weapon,7,Module,ico82033.png
+EM Disintegrator (L),"Target: Battleship
+Optimal Range: 35km
+Distance at 50%: 80.5km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",7024715458185727704358262011601776846332460322780898252156714055883893021152,82034,390,219600,1,1,1986,Precursor Weapon,7,Module,ico82034.png
+Plasma Cannon (L),"Target: Battleship
+Optimal Range: 25km
+Distance at 50%: 59km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",27255616836312193551310001886910418986282700871481986729546402450361676978138,82035,390,219600,1000,1,4805,Mass Driver Weapon,7,Module,ico82035.png
+Tier 2 Autocannon (S),"Target: Frigate
+Optimal Range: 11km
+Distance at 50%: 24km
+
+Will hit larger targets at greater distances. ",46010859434587981379391105390194150245286193401272476118929369130456941400169,82084,20,11200,2000,1,55,Projectile Weapon,7,Module,ico82084.png
+Tier 3 Autocannon (S),"Target: Frigate
+Optimal Range: 12.5km
+Distance at 50%: 27km
+
+Will hit larger targets at greater distances. ",80367578395298207178756597532850641763542454186121758670052329480737328853875,82085,20,11200,2000,1,55,Projectile Weapon,7,Module,ico82085.png
+Tier 2 Rapid Plasma (S),"Target: Frigate
+Optimal Range: 8.5km
+Distance at 50%: 20km
+
+Will hit larger targets at greater distances. ",30223392828509979142367107883907239629270530507031962346121291400525042464884,82086,20,11200,10,1,4806,Plasma Weapon,7,Module,ico82086.png
+Tier 3 Rapid Plasma (S),"Target: Frigate
+Optimal Range: 9km
+Distance at 50%: 21km
+
+Will hit larger targets at greater distances. ",103611888529933549508244110476945853993660785706218835422707991450688744329852,82087,20,11200,10,1,4806,Plasma Weapon,7,Module,ico82087.png
+Tier 2 Coilgun (S),"Target: Frigate
+Optimal Range: 37km
+Distance at 50%: 86km
+
+Will hit larger targets at greater distances. ",99888910930229752687667980015700313032464385100219562118231860491431183309679,82088,20,11200,2000,1,4805,Mass Driver Weapon,7,Module,ico82088.png
+Tier 3 Coilgun (S),"Target: Frigate
+Optimal Range: 40km
+Distance at 50%: 92km
+
+Will hit larger targets at greater distances. ",9878163612809460814102809389390195240529412352861713574494109038230585008867,82089,20,11200,2000,1,4805,Mass Driver Weapon,7,Module,ico82089.png
+Tier 2 EM Disintegrator (S),"Target: Frigate
+Optimal Range: 26km
+Distance at 50%: 60km
+
+Will hit larger targets at greater distances. ",98448830570416286803481617817997364949912342377121408020785270987232890986884,82090,20,11200,1,1,1986,Precursor Weapon,7,Module,ico82090.png
+Tier 3 EM Disintegrator (S),"Target: Frigate
+Optimal Range: 27km
+Distance at 50%: 62km
+
+Will hit larger targets at greater distances. ",26663889734371152705512319527938087461732166520638339774867038173935287936508,82091,20,11200,1,1,1986,Precursor Weapon,7,Module,ico82091.png
+Tier 2 Coilgun (M),"Target: Frigate
+Optimal Range: 57km
+Distance at 50%: 132km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",81575527049895699305800337431835865541433201296515265292316510594570672013928,82092,80,45200,2000,1,4805,Mass Driver Weapon,7,Module,ico82092.png
+Tier 3 Coilgun (M),"Target: Frigate
+Optimal Range: 60km
+Distance at 50%: 139km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",37976476175185885049059192811748584022228254585179253130943646729863445295731,82093,80,45200,2000,1,4805,Mass Driver Weapon,7,Module,ico82093.png
+Tier 2 EM Disintegrator (M),"Target: Cruiser
+Optimal Range: 29.5km
+Distance at 50%: 68km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",81437473904518600494567508849858670574820877965606776380343604054424122986542,82094,80,45200,1,1,1986,Precursor Weapon,7,Module,ico82094.png
+Tier 3 EM Disintegrator (M),"Target: Cruiser
+Optimal Range: 30km
+Distance at 50%: 69km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",76532043774709352636251102695887914782376706431767721816328213813375189071151,82095,80,45200,1,1,1986,Precursor Weapon,7,Module,ico82095.png
+Tier 2 Rapid Plasma (M),"Target: Cruiser
+Optimal Range: 10km
+Distance at 50%: 39.5km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",73328406080680875622692245793265284797827611332229691282098712772580286762470,82096,80,45200,10,1,4806,Plasma Weapon,7,Module,ico82096.png
+Tier 3 Rapid Plasma (M),"Target: Cruiser
+Optimal Range: 17km
+Distance at 50%: 41km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",87197893167581208294631088781175187504862864801726310530559827750036177140829,82097,80,45200,10,1,4806,Plasma Weapon,7,Module,ico82097.png
+Tier 2 Howitzer (M),"Target: Cruiser
+Optimal Range: 48km
+Distance at 50%: 110km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",110065171370208089341971969502968386557490138823236087936838598664627516446771,82098,80,45200,2000,1,55,Projectile Weapon,7,Module,ico82098.png
+Tier 3 Howitzer (M),"Target: Cruiser
+Optimal Range: 50km
+Distance at 50%: 115km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",81833061393816496458953982847441599353079705592264179533698541001881669359136,82099,80,45200,2000,1,55,Projectile Weapon,7,Module,ico82099.png
+Tier 2 Railgun (L),"Target: Battleship
+Optimal Range: 88km
+Distance at 50%: 204km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",13125204170089033585887301140248189808582674592559350533656212739760457599711,82100,390,219600,2000,1,4805,Mass Driver Weapon,7,Module,ico82100.png
+Tier 3 Railgun (L),"Target: Battleship
+Optimal Range: 90km
+Distance at 50%: 208km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",31290409592480218737550788023715503169234737404794036559857071557574081964243,82101,390,219600,2000,1,4805,Mass Driver Weapon,7,Module,ico82101.png
+Tier 2 Howitzer (L),"Target: Battleship
+Optimal Range: 78km
+Distance at 50%: 180km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",100812797683851357717074724210519300475235817889732682194292629110926010119915,82102,390,219600,2000,1,55,Projectile Weapon,7,Module,ico82102.png
+Tier 3 Howitzer (L),"Target: Battleship
+Optimal Range: 80km
+Distance at 50%: 185km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",40016908030095734926879978790961458716417812481126866462497603427765984558880,82103,390,219600,2000,1,55,Projectile Weapon,7,Module,ico82103.png
+Tier 2 Plasma Cannon (L),"Target: Battleship
+Optimal Range: 26km
+Distance at 50%: 60km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",29156430140243830969014608281554379377869388302686633705176176419140730575891,82104,390,219600,1000,1,4806,Plasma Weapon,7,Module,ico82104.png
+Tier 3 Plasma Cannon (L),"Target: Battleship
+Optimal Range: 27km
+Distance at 50%: 62.5km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",89749361819708090136265737162942158861909474072284694252138962402610496270120,82105,390,219600,1000,1,4806,Plasma Weapon,7,Module,ico82105.png
+Tier 2 EM Disintegrator (L),"Target: Battleship
+Optimal Range: 36km
+Distance at 50%: 82.5km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",46714227752316319874647169162385679163455126043271989891411958314344761602394,82106,390,219600,1,1,1986,Precursor Weapon,7,Module,ico82106.png
+Tier 3 EM Disintegrator (L),"Target: Battleship
+Optimal Range: 36km
+Distance at 50%: 83km
+
+Will hit larger targets at greater distances and smaller targets at lower. ",53060847440633597747504780640200646591468608943198677232110067751545611744908,82107,390,219600,1,1,1986,Precursor Weapon,7,Module,ico82107.png
+Bulky Armor Plates,Placeholder,52019768474794342812550481357585291998734864219730463919465732622243256207461,82108,20,20800,1,1,4747,Defensive System,7,Module,ico82108.png
+Coated Armor Plates,Placeholder,14470785696422717181430388275455908235025939875254326367826612202099138970977,82109,20,20800,1,1,4747,Defensive System,7,Module,ico82109.png
+Reactive Armor Plates,Placeholder,70249366646778965338077952975761582878837930655971820952843517150912773299346,82110,20,20800,1,1,4747,Defensive System,7,Module,ico82110.png
+Nimble Armor Plates,Placeholder,10047609014988224665586111166370064082863018696242041836206287848948345421523,82113,20,20800,1,1,4747,Defensive System,7,Module,ico82113.png
+Systematic Armor Restorer,Placeholder,95269358766374380369785185642381555122158928079671700612984353223064827420814,82115,150,107600,1,1,62,Armor Repair Unit,7,Module,ico82115.png
+AC Gyrojet Ammo 2 (S),,22540999447377725585923911287473506046606587363941962964838912079277741709702,82126,0.006,30,1,100,4623,Gyrojet Ammunition,8,Charge,ico82126.png
+AC Gyrojet Ammo 3 (S),,64241546186941392502473159461286713630860850476974086948247639189307794215593,82127,0.006,30,1,100,4623,Gyrojet Ammunition,8,Charge,ico82127.png
+AC Gyrojet Ammo 1 (S) ,,57256065505311134037223333078440100567438656522034042071174470184567596592842,82128,0.006,30,1,100,4623,Gyrojet Ammunition,8,Charge,ico82128.png
+Rapid Plasma Ammo 1 (S),,17294024870109407848488424656401425103676419018126181674934966577291052567745,82130,0.006,0.01,1,100,4750,Plasma Charge,8,Charge,ico82130.png
+Rapid Plasma Ammo 2 (S),,50914624348421551057106585014207092247648764109047958448631836151848115379132,82131,0.006,0.01,1,100,4750,Plasma Charge,8,Charge,ico82131.png
+Rapid Plasma Ammo 1 (M),,30491302693529685108012584121388876416967050734968475849508148096604720030426,82132,0.012,0.1,1,100,4750,Plasma Charge,8,Charge,ico82132.png
+Coilgun Ammo 1 (S),,72303041834441799565597028082148290553073890313361053989246429514519533100781,82133,0.006,30,1,100,4748,Coilgun Charge,8,Charge,ico82133.png
+Coilgun Ammo 1 (M),,61479354035143367521214769487654213975873862754292496899681790498177686877272,82134,0.012,0.01,,100,4748,Coilgun Charge,8,Charge,ico82134.png
+Coilgun Ammo 2 (M),,6129443805386239817876443416912297632176095451160260669746286625407026125319,82135,0.012,0.01,1,100,4748,Coilgun Charge,8,Charge,ico82135.png
+Coilgun Ammo 3 (M) ,,67354718280169404021443440731407541587796051130999205908364611264535793720661,82136,0.012,0.01,1,100,4748,Coilgun Charge,8,Charge,ico82136.png
+EM Disintegrator Charge 1 (M),,8858518426537329983933466267106268595221132757606363445751745159318509498822,82137,0.012,0.1,1,100,4739,EM Disintegrator Charge ,8,Charge,ico82137.png
+EM Disintegrator Charge 2 (M),,101253223242191442101276093982924843670592072113737962946252558918363106914093,82138,0.012,1,1,100,4739,EM Disintegrator Charge ,8,Charge,ico82138.png
+Howitzer Ammo 1 (M),,97864983224489097894244052702142975523569235774224423747287370232375792512651,82140,0.012,1,1,100,83,Projectile Ammo,8,Charge,ico82140.png
+Railgun Ammo 1 (L),,56051135024452927012527687829144745344230839592441284610709373606990918454085,82141,0.018,1,10,100,4749,Railgun Charge,8,Charge,ico82141.png
+Railgun Ammo 2 (L),,99467301128192934351055897263093629054994752688386461367469262527791520794355,82142,0.018,1,10,100,4749,Railgun Charge,8,Charge,ico82142.png
+Railgun Ammo 3 (L),,2123469235785256268657219120683437644763850759020407478491138683756299480852,82143,0.018,1,10,100,4749,Railgun Charge,8,Charge,ico82143.png
+Howitzer Ammo 1 (L),,90107301871454784036208326006801592164778199053973919389536820577232760155278,82145,0.018,1,10,100,83,Projectile Ammo,8,Charge,ico82145.png
+Howitzer Ammo 2 (L),,113765203926952848138146374569221153892310071352576417376444797949005795279680,82146,0.018,1,10,100,83,Projectile Ammo,8,Charge,ico82146.png
+Howitzer Ammo 3 (L),,18898053997411223659031024779493851284570980803012484750158549903342739152099,82147,0.018,1,10,100,83,Projectile Ammo,8,Charge,ico82147.png
+Plasma Cannon Ammo 1 (L),,72120443888614541487512644232099412053242195393224761449365676752112146067182,82148,0.018,0.1,10,100,4750,Plasma Charge,8,Charge,ico82148.png
+Plasma Cannon Ammo 2 (L),,99358093743789260915429096504579057141787741519046025690033423521232521379174,82149,0.018,1,10,100,4750,Plasma Charge,8,Charge,ico82149.png
+EM Disintegrator Charge  (L) ,,50013980138949544536968676091289777897023621461320632769216866344521633336239,82150,0.018,1,1,100,4739,EM Disintegrator Charge ,8,Charge,ico82150.png
+Bulwark Shield Generator,Grants shields to a ship.,32375152302301047425422412531196480503258041864364639420431904541796361265061,82170,66,99550,1000,1,4747,Defensive System,7,Module,ico82170.png
+Attuned Shield Generator,Grants shields to a ship.,3922193411779184336331933114287567128755138291328449972890166410383529156032,82171,150,99550,1000,1,4747,Defensive System,7,Module,ico82171.png
+Reinforced Shield Generator,Grants shields to a ship.,20046807627229907977787302320598419767152373134319723569981416766594340531531,82172,100,99550,1000,1,4747,Defensive System,7,Module,ico82172.png
+Afterburner,Placeholder.,52472135653351480397689532723168928674357864360487671433064275946123626782334,82299,10,12446,1,1,46,Propulsion Module,7,Module,ico82299.PNG
+Cargo Grid,Placeholder,2329308049881450508494807047806997156610162345528162257134477608280251789535,82337,160,236800,10,1,765,Expanded Cargohold,7,Module,ico82337.png
+Hybrid Storage Array,Placeholder,10006288721482455373575640469686367397338339219124172184489314000244992122839,82341,80,128800,10,1,765,Expanded Cargohold,7,Module,ico82341.png
+EM Field Array,,50916152996000328605490519618775464627316792401613301095975340787306807717686,82401,5,10000,1,1,77,Shield Hardener,7,Module,ico82401.png
+Explosive Nanite Sequencer,,9357524283952122376150086152037742697928632504693839611075120993913531378834,82410,20,1,1,1,1701,Nanitic Armor Weave Sequencer,8,Charge,ico82410.png
+EM Nanite Sequencer,,48043827179133536177258402217633251323435120427312719326858142843077511008438,82411,20,1,1,1,1701,Nanitic Armor Weave Sequencer,8,Charge,ico82411.png
+Thermal Nanite Sequencer,,85330641040593662411704853860000435466872442586100489868802007871675683239570,82412,20,1,1,1,1701,Nanitic Armor Weave Sequencer,8,Charge,ico82412.png
+Kinetic Nanite Sequencer,,97729199229669488806063573806281566713580088125544884677883122288666860736620,82413,20,1,1,1,1701,Nanitic Armor Weave Sequencer,8,Charge,ico82413.png
+Ungher,"A heavy version of the Raubtier assault frigate, an icon of the Regicide military machine and one of the symbols of the fall of the Synod in the Metropole. The platform is well-protected, equipped with a powerful metabolic system, and decent weapon systems. Being quite large for its class, Ungher can compete with much heavier ships. Due to high technology and focused enhancements, the platform lacks some fairly basic systems if used outside of military operations.
+
+Developed by Kyrisser on behalf of Regicide for closed licensing.",46133316973958170163833655507967400932749529227410105280606514231047216369372,82424,110372.0078,81883000,30,1,25,Frigate,6,Ship,
+Microptero,"A frigate platform. The Microptero is an exceptionally lightweight platform built for Petrichor Prospect. It is one of the lightest ships in the frigate class and received numerous upgrades during years of extensive use including advanced stabilizers and a highly efficient fueling system. Intended for surveying, scouting and prospecting in hostile territory, the platform can be optimized for combat or reconnaissance. Oath, Far Reach and Visceral each deployed the Microptero as an electronic warfare interceptor and while various nefarious groups made use of its stealth profile and extreme speed.
+
+Developed by PETRICHOR for open licensing and internal use.",48114884376050771830719155964736122892370677710830899183067226272049521710884,82425,24759.43164,18929160,30,1,25,Frigate,6,Ship,
+Val,"A hauling frigate platform. The Val was frequently employed by GSC and Petrichor because of its ability to stand up to both the brutal environment and the hostile population. A small, agile freighter design with adequate combat and navigation support, it was a core component of armed cargo convoys featuring heavier combat platforms such as the Dremar or the Caruda. The VAL platform is durable enough for extended journeys in a variety of harsh conditions.
+
+Developed by KODACHI SHIPYARDS for Eyrie's Boreas product line.",80577802854485497589518916213864906943525881257745763126542651908054788916265,82426,41784.92188,31369320,30,1,25,Frigate,6,Ship,
+Harpia,"A mobile destroyer platform. The Harpia features the high-resolution sensor systems equipped on all Petrichor ships. This model excels in both combat reconnaissance and assault operations, having been adapted for hunting large targets with multiple weapon systems. A primary military product for Petrichor, the Harpia provided significant offensive and defensive support around resource extraction sites.
+
+Developed by PETRICHOR limited open licensing and internal use.",13367149452021335142279089312392399187129690558570102343018671267829775211453,82427,94599.125,70823640,30,1,420,Destroyer,6,Ship,
+Strix,"A destroyer platform. The Strix is a stealthy and durable hybrid destroyer platform that can be optimized for combat or recon missions. Like all Petrichor ships, this platform features extra armor in addition to its efficient fueling system and high-grade stabilizers, establishing it as a universally recognized combat asset.
+
+Developed by PETRICHOR for limited licensing and internal use.",91546859124788798501423154908999896209149827298277222942127100719123064704309,82428,142460,104343080,30,1,420,Destroyer,6,Ship,
+Dataist Light Cruiser,Placeholder,8063863644343683211170387331046119434774624664533218003418278474618035677349,82429,1261984.375,0,30,1,26,Cruiser,6,Ship,
+Baile,"A platform for an assault cruiser. In the Regicide doctrine, ships of this type typically supported assault groups consisting of Unghers and Raubtier. Baile's large holds, combined with a robust strike base, make it a formidable cruiser for broad application. Instead of pneumatic bomb launchers, these ships were often equipped with a pneumatic supply system, for delivering goods to allies or to create a burden on the enemy's defense system with traps.
+
+Developed by Kyrisser on behalf of Regicide for closed licensing.",97038308132228405455719542713772727720187418557738913265977658773152957839618,82430,735915.625,548435920,30,1,26,Cruiser,6,Ship,
+Flegel,"A cargo cruiser platform. The Flegel accommodates decent combat equipment for its class and features a unique rotary propulsion system for effective maneuvering and mass transfer. The upper fuselage was designed with a robust wing-like structure allowing continued operation even under heavy fire to prevent the enemy from disrupting trade routes with small forces.
+
+Developed by Eyrie for the Boreas product line.",91834114783699317774292367422736595645627392712335268844200250661730822611668,82431,221977.6719,164765800,30,1,26,Cruiser,6,Ship,
+Axte,"A battlecruiser platform. The Axte was developed by Kyrisser specifically for Regicide’s more aggressive operations on the Frontier. This ship was a commerce-disrupting predator used extensively against the Synod and the Clans, though indiscriminate Axte deployment around crude extraction sites led to accusations piracy and claim jumping by other Venture corporations. Despite being more optimal for hunting than entrenched engagement, the combat qualities of the model make it a highly unattractive target for most assault groups.
+
+Developed by Kyrisser on behalf of Regicide for closed licensing.",106417216231549535801042954996977769421622202713719257521127139854497688220662,82483,1251648.375,937032000,30,1,419,Combat Battlecruiser,6,Ship,
+Bulky Armor Plates II,Placeholder,29143941020758882098690662469091830118177750890877672274908866661084895997098,82647,40,41600,1,1,4747,Defensive System,7,Module,ico82647.png
+Coated Armor Plates II,Placeholder,80636961855781343813167503732180367412678496222465887758958254988431515438436,82648,40,41600,1,1,4747,Defensive System,7,Module,ico82648.png
+Reactive Armor Plates II,Placeholder,55641814344664735950573205836554071856615235158997643793502724322668980765545,82649,40,41600,1,1,4747,Defensive System,7,Module,ico82649.png
+Nimble Armor Plates II,Placeholder,25873301221919402593898874684765037745212742284388401967838418990735849076218,82650,40,41600,1,1,4747,Defensive System,7,Module,ico82650.png
+Systematic Armor Restorer II,Placeholder,72301745453765717589345839308484986142450289139713929834569816436273668339091,82651,150,111400,1,1,62,Armor Repair Unit,7,Module,ico82651.png
+Bulwark Shield Generator II,Grants shields to a ship.,17835910996058849814272944521091144399746130783600507174544169391594731117311,82652,120,181000,1000,1,4747,Defensive System,7,Module,ico82652.png
+Attuned Shield Generator II,Grants shields to a ship.,109423508612138436404394695634255574400846781123068429679754624819079604373289,82653,150,181000,1000,1,4747,Defensive System,7,Module,ico82653.png
+Reinforced Shield Generator II,Grants shields to a ship.,11289575048098879054980047347963830790246631883046520219447412062451008280545,82654,180,181000,1000,1,4747,Defensive System,7,Module,ico82654.png
+Shield Restorer II,Improves the recharge rate of the shield.,94193806115803366778939341981207874185827121798823663159766276036495564780977,82667,150,111400,1000,1,39,Shield Recharger,7,Module,ico82667.png
+MWD II,"The Low Power Microwarpdrive is a compact propulsion module, primarily intended for enhancing the speed of small utility drones for brief periods.",48523006854037742948070043025622268127635664986747428389720463593260110399576,82668,20,15135.2,1,1,46,Propulsion Module,7,Module,ico82668.png
+Afterburner II,Placeholder.,85203627955100288263024189799557357155225747455911360155586315771981354505157,82681,10,15135.2,1,1,46,Propulsion Module,7,Module,ico82681.PNG
+Warp Entangler II,Momentarily prevents a ship from warping.,96169184385272519531006540611436169247909284346410152495628908240279419714334,82682,50,104120,1,1,52,Warp Scrambler,7,Module,ico82682.png
+Stasis Net II,Momentarily reduces the maximum speed of a ship.,18877717443376847467918401755554012487734195443955288396274013925834945920140,82683,50,103910,500,1,65,Stasis Web,7,Module,ico82683.png
+MWD IV,"The Low Power Microwarpdrive is a compact propulsion module, primarily intended for enhancing the speed of small utility drones for brief periods.",38314283556880704390090125858009637344688770356771973739683752711228028522878,82914,20,21812.8,1,1,46,Propulsion Module,7,Module,ico82914.png
+Afterburner IV,Placeholder.,73902299780747800436510876140822154231588405110225270281999981543397270455749,82915,20,21812.8,1,1,46,Propulsion Module,7,Module,ico82915.PNG
+Zarquis Pocket Spawner,,3527983610445796036689881782425950769573958889702993102288951332581770213596,82967,0,0,1,1,227,Cloud,2,Celestial,
+MWD VI,"The Low Power Microwarpdrive is a compact propulsion module, primarily intended for enhancing the speed of small utility drones for brief periods.",86691227548978635052511034559876517782136014682420682504778436721944697091991,83190,30,31240.4,1,1,46,Propulsion Module,7,Module,ico83190.png
+Guided Light Missile,Placeholder,86100297247102832478050669849097339886378640706597712222158285415101270828281,83295,0.015,700,300,100,4762,Light Guided Missile,8,Charge,ico83295.png
+Frontier Hive Orders ,A script for constellation patrol with unknown origins. This may be useful for activating the Frontier gate. ,67805253046218045346254143688399371572389959860724161006695456650630650188234,83409,0.001,0,1,1,526,Commodities,17,Commodity,ico83409.png
+Bulky Armor Plates III,Placeholder,77957001814616644838555122426156175717897569388434464703534243312787807618660,83421,80,83200,1,1,4747,Defensive System,7,Module,ico83421.png
+Bulky Armor Plates IV,Placeholder,5324885041208959884443864544534963408770036377808113924218452399571473655188,83422,160,166400,1,1,4747,Defensive System,7,Module,ico83422.png
+Bulky Armor Plates V,Placeholder,14459329198219122122769282532780954494583113625511608641833112089293576638201,83423,320,332800,1,1,4747,Defensive System,7,Module,ico83423.png
+Bulky Armor Plates VI,Placeholder,46123475458102512106479456380702642177932145937957134490651300328873985581236,83424,640,665600,1,1,4747,Defensive System,7,Module,ico83424.png
+Coated Armor Plates III,Placeholder,103475525103668732459893943112598813859658226680954919885271592188854752128737,83425,80,83200,1,1,4747,Defensive System,7,Module,ico83425.png
+Coated Armor Plates IV,Placeholder,80521086131143372717321582631259814923903187515500641371932641831374965053058,83426,170,166400,1,1,4747,Defensive System,7,Module,ico83426.png
+Coated Armor Plates V,Placeholder,113148480857975375319991716288230946780637836281239477611285237765459734478624,83427,330,332800,1,1,4747,Defensive System,7,Module,ico83427.png
+Coated Armor Plates VI,Placeholder,75220487458697944813021310823982924106602487255668466488415807508157270536087,83428,670,665600,1,1,4747,Defensive System,7,Module,ico83428.png
+Reactive Armor Plates III,Placeholder,95257012139892855423496684505171760239599716583587181130501778277950899347171,83429,80,83200,1,1,4747,Defensive System,7,Module,ico83429.png
+Reactive Armor Plates IV,Placeholder,44015532934571681496674387846159941935193614099065275975425753624660074565989,83430,170,166400,1,1,4747,Defensive System,7,Module,ico83430.png
+Reactive Armor Plates V,Placeholder,115280002003432216629192582219496661325984736943557855052887277965180004436385,83431,330,332800,1,1,4747,Defensive System,7,Module,ico83431.png
+Reactive Armor Plates VI,Placeholder,71799876466444660613791067302148436499374412176505613835039672104584008858632,83432,670,665600,1,1,4747,Defensive System,7,Module,ico83432.png
+Nimble Armor Plates III,Placeholder,16108558225662974143482156851279357057473208588188226629476245787221415744479,83433,80,83200,1,1,4747,Defensive System,7,Module,ico83433.png
+Nimble Armor Plates IV,Placeholder,10814206760431902038938490242159152470776054130801390741173492135925891088557,83434,170,166400,1,1,4747,Defensive System,7,Module,ico83434.png
+Nimble Armor Plates V,Placeholder,21224267741522688849870384315597163198307511396977621644100338299259387277733,83435,330,332800,1,1,4747,Defensive System,7,Module,ico83435.png
+Nimble Armor Plates VI,Placeholder,104895369739025667814115203918536552730566366593793202689298450284804872736508,83436,670,665600,1,1,4747,Defensive System,7,Module,ico83436.png
+Systematic Armor Restorer III,Placeholder,62415249337618394417248775475154416417473344680730521190257818550934618900947,83437,200,222800,1,1,62,Armor Repair Unit,7,Module,ico83437.png
+Systematic Armor Restorer IV,Placeholder,108771567570777201718530673432746630715002544708388824923168212845996696187320,83438,200,238000,1,1,62,Armor Repair Unit,7,Module,ico83438.png
+Systematic Armor Restorer V,Placeholder,26504957996997971582311427055503371729713595474687724016495182418502934348451,83439,250,476000,1,1,62,Armor Repair Unit,7,Module,ico83439.png
+Systematic Armor Restorer VI,Placeholder,16308164770435952048511197373707496469617492116654923860851708368586348495892,83440,250,536800,1,1,62,Armor Repair Unit,7,Module,ico83440.png
+Adaptive Nanitic Armor Weave II, ( copy ),108366597786468578159656685135752993201796246820212245240223188877581730817796,83441,20,1,10,1,1699,Flex Armor Hardener,7,Module,ico83441.png
+Adaptive Nanitic Armor Weave III, ( copy ),69230622291537533845479801791894294742405886803819802036107177565212607423014,83442,20,1,10,1,1699,Flex Armor Hardener,7,Module,ico83442.png
+Adaptive Nanitic Armor Weave  IV, ( copy ),50377287283588366002100810415659567165698789288747177364801521283684459857792,83443,20,1,10,1,1699,Flex Armor Hardener,7,Module,ico83443.png
+Adaptive Nanitic Armor Weave V, ( copy ),31354200349525957072470240265138436775119213317472133711040036554119922341287,83444,20,1,10,1,1699,Flex Armor Hardener,7,Module,ico83444.png
+Adaptive Nanitic Armor Weave  VI, ( copy ),1760691631397025731019120103305654073801714722665196574771631797618616274923,83445,20,1,10,1,1699,Flex Armor Hardener,7,Module,ico83445.png
+Bulwark Shield Generator V,Grants shields to a ship. ( copy ),69884083272100707810632492040585856373052901505537706154862166106511868994787,83446,888,1339400,1000,1,4747,Defensive System,7,Module,ico83446.png
+Bulwark Shield Generator VI,Grants shields to a ship. ( copy ),18908051359650651717003931526365879700959388672402174847037144707382850108052,83447,1152,1737600,1000,1,4747,Defensive System,7,Module,ico83447.png
+Bulwark Shield Generator III,Grants shields to a ship. ( copy ),69458946396741222540179089440628217828341124816753691344554617944385316134662,83448,336,506800,1000,1,4747,Defensive System,7,Module,ico83448.png
+Bulwark Shield Generator IV,Grants shields to a ship. ( copy ),90736780485807739398162617814923763724613662022176207498670268371325889846920,83449,624,941200,1000,1,4747,Defensive System,7,Module,ico83449.png
+Attuned Shield Generator III,Grants shields to a ship. ( copy ),33126065640642467075192483513933313678089698849318213908343936078726914507123,83450,300,506800,1000,1,4747,Defensive System,7,Module,ico83450.png
+Attuned Shield Generator IV,Grants shields to a ship. ( copy ),69776755889137176416860687374808105211052756210391879442358605904172432863747,83451,300,941200,1000,1,4747,Defensive System,7,Module,ico83451.png
+Attuned Shield Generator V,Grants shields to a ship. ( copy ),33734168868164267368417981417608124412781092911166087109002525887980551896315,83452,600,1339400,1000,1,4747,Defensive System,7,Module,ico83452.png
+Attuned Shield Generator VI,Grants shields to a ship. ( copy ),93836598979515154129824782309003256805428993325744877996458236130518967053231,83453,600,1737600,1000,1,4747,Defensive System,7,Module,ico83453.png
+Reinforced Shield Generator V,Grants shields to a ship. ( copy ),4359454066445188134720652984758344373957852260303883838379148220776401524423,83454,1340,1339400,1000,1,4747,Defensive System,7,Module,ico83454.png
+Reinforced Shield Generator VI,Grants shields to a ship. ( copy ),21892371382179253641875557836541384550257543757921640413459770748982554240232,83455,1740,1737600,1000,1,4747,Defensive System,7,Module,ico83455.png
+Reinforced Shield Generator III,Grants shields to a ship. ( copy ),61880023350923679299384832974364098017682623978656591222686051731588583193803,83456,510,506800,1000,1,4747,Defensive System,7,Module,ico83456.png
+Reinforced Shield Generator IV,Grants shields to a ship. ( copy ),44172451838836811933524592757204584967323133252083812348247041497061495462516,83457,940,941200,1000,1,4747,Defensive System,7,Module,ico83457.png
+Shield Restorer III,Improves the recharge rate of the shield. ( copy ),69157617409179448401767905021026837646325329645096512164309266933243897772572,83458,200,222800,1000,1,39,Shield Recharger,7,Module,ico83458.png
+Shield Restorer IV,Improves the recharge rate of the shield. ( copy ),38166780698471900668500319510737506688547579235618624297410244990336500873624,83459,200,238000,1000,1,39,Shield Recharger,7,Module,ico83459.png
+Shield Restorer V,Improves the recharge rate of the shield. ( copy ),71448236255598044877503313835709439699939112334551644917292982730375814786462,83460,250,476000,1000,1,39,Shield Recharger,7,Module,ico83460.png
+Shield Restorer VI,Improves the recharge rate of the shield. ( copy ),38878846112336470323805636858238443276124645754713099663238233544460962613376,83461,250,536800,1000,1,39,Shield Recharger,7,Module,ico83461.png
+Synthetic Mining Lens,A mining lens used in mining lasers. It uses a low-grade synthesized crystal as an alternative to natural crystal.,106757758933969621817485663307116114178786756537066962787326514633226151875190,83463,1,0,1,1,4764,Asteroid Mining Crystal,8,Charge,ico83463.png
+MWD V,"The Low Power Microwarpdrive is a compact propulsion module, primarily intended for enhancing the speed of small utility drones for brief periods. ( copy )",49250558844800782354673877906822992604981103344745008708336693835448022994489,83495,30,25882,1,1,46,Propulsion Module,7,Module,ico83495.png
+MWD III,"The Low Power Microwarpdrive is a compact propulsion module, primarily intended for enhancing the speed of small utility drones for brief periods. ( copy )",24192015603577087960065693736141876992823567784106005360267862638099760210232,83496,20,18034.4,1,1,46,Propulsion Module,7,Module,ico83496.png
+Cargo Grid II,Placeholder ( copy ),54135224865606037547596551629395154163890151722572483381955240389401485635430,83497,230,355200,10,1,765,Expanded Cargohold,7,Module,ico83497.png
+Cargo Grid III,Placeholder ( copy ),97346416684663974725840893133719471539663810121369856835938035170523161471649,83498,585,473600,10,1,765,Expanded Cargohold,7,Module,ico83498.png
+Cargo Grid IV,Placeholder ( copy ),76920529398474700352146771825454780556148369625218225453566378718802156200906,83499,820,532800,10,1,765,Expanded Cargohold,7,Module,ico83499.png
+Cargo Grid V,Placeholder ( copy ),78540885446371274671392544671592382641356242309309870229057301902151176727664,83500,1000,592000,10,1,765,Expanded Cargohold,7,Module,ico83500.png
+Cargo Grid VI,Placeholder ( copy ),10171266453078876212453960361921591451734114244262415173150836978099210431444,83501,1235,651200,10,1,765,Expanded Cargohold,7,Module,ico83501.png
+Hybrid Storage Array V,Placeholder ( copy ),106007842872948358266721389294701331969803110362906104382982913713163662153538,83502,400,322000,10,1,765,Expanded Cargohold,7,Module,ico83502.png
+Hybrid Storage Array VI,Placeholder ( copy ),114785948808520432167980586362701876920762053900894613291728577834941876851524,83503,560,354200,10,1,765,Expanded Cargohold,7,Module,ico83503.png
+Hybrid Storage Array II,Placeholder ( copy ),18163200443348475672421463292286832876689645585153507649517206423177655192432,83504,160,193200,10,1,765,Expanded Cargohold,7,Module,ico83504.png
+Hybrid Storage Array III,Placeholder ( copy ),24851611085915044336540016854688663492862759255433268879711256761243284185339,83505,240,257600,10,1,765,Expanded Cargohold,7,Module,ico83505.png
+Hybrid Storage Array IV,Placeholder ( copy ),61764891335216321376913854051479204039778908564016791506741411636682119908394,83506,320,289800,10,1,765,Expanded Cargohold,7,Module,ico83506.png
+Internal Fuel Container,Placeholder,17053147331639086104665637481355470244980175554313086998371925416733397331855,83507,26,20800,10,1,765,Expanded Cargohold,7,Module,ico83507.png
+Internal Fuel Container V,Placeholder ( copy ),34379773497544082852448080618819203060033799740598241265701183395932138511581,83510,130,52000,10,1,765,Expanded Cargohold,7,Module,ico83510.png
+Internal Fuel Container VI,Placeholder ( copy ),103685374824899639045535865630834830099335847335059396025636564999497438146210,83511,182,57200,10,1,765,Expanded Cargohold,7,Module,ico83511.png
+Internal Fuel Container II,Placeholder ( copy ),22863217588336627582441315663458361593852520615114771983691500302374562363665,83512,52,31200,10,1,765,Expanded Cargohold,7,Module,ico83512.png
+Internal Fuel Container III,Placeholder ( copy ),7722357527469141730152716713434839249670168032875336560573305855226150476030,83513,78,41600,10,1,765,Expanded Cargohold,7,Module,ico83513.png
+Internal Fuel Container IV,Placeholder ( copy ),30498740075817563473239432016634254177645586073239753615581669557875646142958,83514,104,46800,10,1,765,Expanded Cargohold,7,Module,ico83514.png
+Warp Entangler III,Momentarily prevents a ship from warping. ( copy ),66284999196371434996933341892467719880313659268260618269598053012081098070905,83516,50,104200,1,1,52,Warp Scrambler,7,Module,ico83516.png
+Warp Entangler IV,Momentarily prevents a ship from warping. ( copy ),55011967113153887440357634093015998745197743837473103329488131996616417597786,83517,50,104280,1,1,52,Warp Scrambler,7,Module,ico83517.png
+Warp Entangler V,Momentarily prevents a ship from warping. ( copy ),34820480197293795876532005641014201879617235553071670725612366522251432154186,83518,50,104560,1,1,52,Warp Scrambler,7,Module,ico83518.png
+Warp Entangler VI,Momentarily prevents a ship from warping. ( copy ),107241842212204016820693423463379329106288768904279294896621261486720644082922,83519,50,104880,1,1,52,Warp Scrambler,7,Module,ico83519.png
+Stasis Net III,Momentarily reduces the maximum speed of a ship. ( copy ),35446992830716796983097870193782203859256253569818969263986256821039409664454,83520,50,103930,500,1,65,Stasis Web,7,Module,ico83520.png
+Stasis Net IV,Momentarily reduces the maximum speed of a ship. ( copy ),70322989870347712358442758111822625675721105259958275382993143056898831110497,83521,50,103940,500,1,65,Stasis Web,7,Module,ico83521.png
+Stasis Net V,Momentarily reduces the maximum speed of a ship. ( copy ),50298702856351790465309523959626715481715080272513029426624620407292919887727,83522,50,103960,500,1,65,Stasis Web,7,Module,ico83522.png
+Stasis Net VI,Momentarily reduces the maximum speed of a ship. ( copy ),114771751827692091860392028203557696361515910778950354625420033192551115956930,83523,50,103980,500,1,65,Stasis Web,7,Module,ico83523.png
+Asteroid Mining Laser III,Placeholder,37050646349518313299705841376321818996506943688614208734163920806865947807198,83524,110,61300,25,1,4765,Asteroid Mining Laser,7,Module,ico83524.png
+Asteroid Mining Laser II,Placeholder,81749708133224919409904158872867234551205929259103124761697717435765976526153,83528,75,40570,25,1,4765,Asteroid Mining Laser,7,Module,ico83528.png
+Afterburner VI,Placeholder. ( copy ),91694289671595364954785045954380702649851736949011778378791152652884129948555,83535,30,31240.4,1,1,46,Propulsion Module,7,Module,ico83535.PNG
+Afterburner III,Placeholder. ( copy ),102818782695985931947366067895188826307072447324186525026445447014517812297761,83536,10,18034.4,1,1,46,Propulsion Module,7,Module,ico83536.PNG
+Afterburner V,Placeholder. ( copy ),84650698646192627688762761964488592967216729925379155213075173110016985762258,83537,30,25882,1,1,46,Propulsion Module,7,Module,ico83537.PNG
+Feral Drone Frigate Spawner,,105446702543336095175039794068981122353611722065263578647322296814264101207916,83552,0,0,1,1,227,Cloud,2,Celestial,
+"Feral Drone - Frigate, support and Rare Spawner ",,47256729250724291845701363676742325282979273285510347497731550148941368417830,83553,0,0,1,1,227,Cloud,2,Celestial,
+Feral Drone - Cruiser Spawner,,39452959125782792256560713054739380178987156929780332628429981695617415024717,83554,0,0,1,1,227,Cloud,2,Celestial,
+"Feral Drone - Cruiser, support, rare",,73055817945419250802555064503183566543552890641453991086602281044369300627618,83555,0,0,1,1,227,Cloud,2,Celestial,
+Feral Drone - Battleship only,,67551082978056690929073763621524879996525689256146134271556576777579176490988,83556,0,0,1,1,227,Cloud,2,Celestial,
+"Feral Drone - Battleship, support, rare and commander",,39202511454148038530857508950529104320392977413885172730295377964722240049446,83557,0,0,1,1,227,Cloud,2,Celestial,
+Bridgehead 86 Key,"A key containing a dedicated access algorithm, that unlocks the stargate to Frontier.
+
+Once built and while docked in station, initiate Gate access by right-clicking the item and selecting 'Activate'.",100817554904172780756246872964931265089476895040041059133679899142722811599896,83580,0.001,0,1,1,4475,License,17,Commodity,ico83580.png
+Bridgehead 37 Key,"A key containing a dedicated access algorithm, that unlocks the stargate to Frontier.
+
+Once built and while docked in station, initiate Gate access by right-clicking the item and selecting 'Activate'.",59851142595006604951123531136670176431098563033208717904123815831531896541489,83581,0.001,0,1,1,4475,License,17,Commodity,ico83581.png
+Thermal-electro Nanitic Brace II,,31847264298415426446679069790702263630591245476277796721606787284189125691977,83613,70,106080,10,1,326,Nanitic Brace,7,Module,ico83613.png
+Thermal-electro Nanitic Brace III,,13088836156322553028696867579363955257654510125564643877904081797171377649055,83614,140,212160,10,1,326,Nanitic Brace,7,Module,ico83614.png
+Thermal-electro Nanitic Brace IV ,,84280619407116119013726364544543552936617688891588824596673783650288706894658,83615,140,216720,10,1,326,Nanitic Brace,7,Module,ico83615.png
+Thermal-electro Nanitic Brace V ,,96349528722229574627881160852511064088314809996999226900044175594110162777278,83616,290,433440,10,1,326,Nanitic Brace,7,Module,ico83616.png
+Thermal-electro Nanitic Brace VI ,,28512680171608856641392515762285956776118326921236980143983084777869519440570,83617,300,451680,10,1,326,Nanitic Brace,7,Module,ico83617.png
+Explonetic-electro Nanitic Brace II ,,10037843905289045525749184019486439955530757159818888760978569396281100756166,83618,70,106080,10,1,326,Nanitic Brace,7,Module,ico83618.png
+Explonetic-electro Nanitic Brace III,,28607453143972342739703805488568226525197115561688808150890041902493033200448,83619,140,212160,10,1,326,Nanitic Brace,7,Module,ico83619.png
+Explonetic-electro Nanitic Brace IV,,108649952988541872104929954620107603158344324946729701808747858986220188170586,83620,140,216720,10,1,326,Nanitic Brace,7,Module,ico83620.png
+Explonetic-electro Nanitic Brace V,,4902054442288188780680315783158217204844564322021118956788566905942717346479,83621,290,433440,10,1,326,Nanitic Brace,7,Module,ico83621.png
+Explonetic-electro Nanitic Brace VI,,9559697307588380987899887060862505360253435368226280097807721671262331540033,83622,300,451680,10,1,326,Nanitic Brace,7,Module,ico83622.png
+Explo-electro Nanitic Brace II,,38643920217147988698968284931578699845270582921958979332393722459504943723303,83623,70,106080,10,1,326,Nanitic Brace,7,Module,ico83623.png
+Explo-electro Nanitic Brace III,,46329649366943547140466442352402605367510963772861273951019794927221463313355,83624,140,212160,10,1,326,Nanitic Brace,7,Module,ico83624.png
+Explo-electro Nanitic Brace IV,,99755871231341846652448045679621899495709525620388951280496788402267154715796,83625,140,216720,10,1,326,Nanitic Brace,7,Module,ico83625.png
+Explo-electro Nanitic Brace V,,94668839075790335854379290657895607677205618932077388028693542239684906806568,83626,290,433440,10,1,326,Nanitic Brace,7,Module,ico83626.png
+Explo-electro Nanitic Brace VI,,816584318728851654326246732560708456729779283046670430956523743105172436668,83627,300,451680,10,1,326,Nanitic Brace,7,Module,ico83627.png
+Thermalnetic Nanitic Brace II,,15172667811977839338396297444524735896279393487511350979421131184524345052487,83628,70,106080,10,1,326,Nanitic Brace,7,Module,ico83628.png
+Thermalnetic Nanitic Brace III,,39518314691547666400972923017330216623403462537156818730052646725615699007215,83629,140,212160,10,1,326,Nanitic Brace,7,Module,ico83629.png
+Thermalnetic Nanitic Brace IV,,79480838497498928826796397339414296498124174364322475330361037606074742719726,83630,140,216720,10,1,326,Nanitic Brace,7,Module,ico83630.png
+Thermalnetic Nanitic Brace V,,2073018980657261183789820296000777850447960309595384137378053926290723049170,83631,290,433440,10,1,326,Nanitic Brace,7,Module,ico83631.png
+Thermalnetic Nanitic Brace VI,,37898954815784246344972350144713746158466048212661046149582882561580764003461,83632,300,451680,10,1,326,Nanitic Brace,7,Module,ico83632.png
+Feral Drone Boss Spawner,,27953386806086978044555607004742350071664686137728663423693715540851345409865,83678,0,0,1,1,227,Cloud,2,Celestial,
+EM Field Array VI,,106847192757631509886835281528284362431674097067946399613500129386273049040473,83767,5,10000,1,1,77,Shield Hardener,7,Module,ico83767.png
+EM Field Array II,,113999666423393199049191693075637377527060248028326934264430985574218976304107,83768,2.5,2500,1,1,77,Shield Hardener,7,Module,ico83768.png
+EM Field Array III,,33303917222223963494310800552387382884026429666569493373308777323129479376414,83769,3,3000,1,1,77,Shield Hardener,7,Module,ico83769.png
+EM Field Array IV,,61031026997824159290763691550593866659445133936816700371803602245710986387068,83770,3.5,3500,1,1,77,Shield Hardener,7,Module,ico83770.png
+EM Field Array V,,45382883439766342502655390367197447558186553241103804266105103512000844398447,83771,4,4000,1,1,77,Shield Hardener,7,Module,ico83771.png
+Thermal Field Array II,,21209603635127099440956394769025976984467163242761637981899463443740806915159,83772,2.5,2500,1,1,77,Shield Hardener,7,Module,ico83772.png
+Thermal Field Array III,,50874552620353017389737170406339562780554697284371321831355783814069144295308,83773,3,3000,1,1,77,Shield Hardener,7,Module,ico83773.png
+Thermal Field Array IV,,76581681522116824111381176806353321523051850429571214077454733793376236584690,83774,3.5,3500,1,1,77,Shield Hardener,7,Module,ico83774.png
+Thermal Field Array V,,76373239290958041049070934615209576332290429104077245864660120825539702590454,83775,4,4000,1,1,77,Shield Hardener,7,Module,ico83775.png
+Thermal Field Array VI,,60032544005584117370677703762231391294122852836313254814110427432499446899685,83776,4.5,4500,1,1,77,Shield Hardener,7,Module,ico83776.png
+Explosive Field Array II,,66908762325034761216078302743766029400296285018253907709879012239913725131355,83777,2.5,2500,1,1,77,Shield Hardener,7,Module,ico83777.png
+Explosive Field Array III,,85276537291658608570274848337530085139889827832283768378267390380526358696617,83778,3,3000,1,1,77,Shield Hardener,7,Module,ico83778.png
+Explosive Field Array IV,,63985579521687713130353432255258369648165174091783057734024247307123138777857,83779,3.5,3500,1,1,77,Shield Hardener,7,Module,ico83779.png
+Explosive Field Array V,,115589589375261252741115427461604448454737723016622698641299472480882787158703,83780,4,4000,1,1,77,Shield Hardener,7,Module,ico83780.png
+Explosive Field Array VI,,73636835524784615510302449386769159752176853428968370725083835024987081634526,83781,4.5,4500,1,1,77,Shield Hardener,7,Module,ico83781.png
+Kinetic Field Array II,,11222154555487937193856751275340214945823877811097882939912920051787505798005,83782,2.5,2500,1,1,77,Shield Hardener,7,Module,ico83782.png
+Kinetic Field Array III,,84892506516265923582014144410674937464847757126645668694118929959778120194964,83783,3,3000,1,1,77,Shield Hardener,7,Module,ico83783.png
+Kinetic Field Array IV,,88280033281597783765694286013027107379318944297206393485348472766032898172581,83784,3.5,3500,1,1,77,Shield Hardener,7,Module,ico83784.png
+Kinetic Field Array V,,53770046114276183363236310079450496640010022880857680010193540160722213013224,83785,4,4000,1,1,77,Shield Hardener,7,Module,ico83785.png
+Kinetic Field Array VI,,82546155907254971238241389997430587917625090031193174493480777093652223925410,83786,4.5,4500,1,1,77,Shield Hardener,7,Module,ico83786.png
+Salvaged Exotronics,,30407875511232914686313546251094494316372289183425146324052687720484253608729,83818,0.2,500,1,1,4608,Exotronic Frames,17,Commodity,ico83818.png
+Salt,"Computational Salt is a crystalline substance primarily used in exotronic computing. It is one of the products of Crude Matter industry. The larger the crystal, the more massive models for computation it can contain, but we are still talking about microscopic sizes invisible to the naked human eye.",70505200487489129491533272716910408603753256595363780714882065332876101173161,83839,0.01,20,1,1,18,Mineral,4,Material,ico83839.png
+Luminalis,A non-naturally occurring crystal synthesized by the Rogue Drones in unknown ways. Common uses in the frontier involve faceting the crystals into asteroid mining lenses and grinding them down for the use of chemical processes involved in the production of fuel.,87361103206921707711635989688950606278786064279542790311951012064272011980331,83892,1,0,1,1,886,Rogue Drone Components,4,Material,ico83892.png
+Eclipsite,A naturally occurring crystal used by the Rogue Drones in unknown ways. Common uses in the frontier involve faceting the crystals into asteroid mining lenses and grinding them down for the use of chemical processes involved in the production of fuel.,79716292358809818493320935858541571308265498707432397510191998815557003412946,83893,1,0,1,1,886,Rogue Drone Components,4,Material,ico83893.png
+Radiantium,A non-naturally occurring crystal synthesized by the Rogue Drones in unknown ways. Common uses in the frontier involve faceting the crystals into asteroid mining lenses and grinding them down for the use of chemical processes involved in the production of fuel.,19329545523580050068620547900728582026716800871701810576548079316257103962814,83894,1,0,1,1,886,Rogue Drone Components,4,Material,ico83894.png
+Radiantium Mining Lens,A mining lens used in mining lasers. It uses a catalytic crystal core as a lens which allows for the harvesting of more hardened asteroids.,48684844686527928538363475739478679211408557614345720943603988520250727673870,83895,10,1,1,1,4764,Asteroid Mining Crystal,8,Charge,ico83895.png
+Gravionite Mining Lens,A mining lens used in mining lasers. It uses a catalytic crystal core as a lens which allows for the harvesting of more hardened asteroids.,27510609258646166966474774788738306852957601471944308852640648916223044432953,83896,10,1,1,1,4764,Asteroid Mining Crystal,8,Charge,ico83896.png
+Luminalis Mining Lens,A mining lens used in mining lasers. It uses a catalytic crystal core as a lens which allows for the harvesting of more hardened asteroids.,4187444083710381774041273002069123390629826854864765390759985175214354676612,83897,10,1,1,1,4764,Asteroid Mining Crystal,8,Charge,ico83897.png
+Eclipsite Mining Lens,A mining lens used in mining lasers. It uses a catalytic crystal core as a lens which allows for the harvesting of more hardened asteroids.,49916593721476259536619003049268093535583337728798729651029736165017951513149,83898,10,1,1,1,4764,Asteroid Mining Crystal,8,Charge,ico83898.png
+Catalytic Dust,Ground down catalytic crystals produce a dust like compound used in chemical processes such as producing fuel.,75484090950036628994384215512179526205119141753707774031320052335001944415096,83899,0.01,0,1,1,886,Rogue Drone Components,4,Material,ico83899.png
+Feral Miner spawner ,,98715121116356350394234564474757149190305684082238130545051114197887504491187,83916,0,0,1,1,227,Cloud,2,Celestial,
+Hackathon Flegel,,76497270589707738104816748035072831769068701363486550920879967721692343212023,83930,55000,55000000,30,1,26,Cruiser,6,Ship,
+Innocence Hive Spawner,,6690439678597559312587726265073336569258449657447729909955312065787111913068,83989,0,0,1,1,227,Cloud,2,Celestial,
+♦ Sarana Control Node,,90205668681888999070312894194369481494520770105832018313769065642733279223796,83992,800000,50000000000,150000,1,1876,♦ Engineering Complex,65,Structure,
+Small computer component [placeholder],,18231198726269237236176818843517723081130952961619596451220004986031525160526,84180,0.02,50,1,1,4780,Basic Component,4,Material,ico84180.png
+Quartz-coded ceramic base component [placeholder],,81138849165601156506987493954195467767825997744925837785982018959614051237668,84181,1,3000,1,1,4780,Basic Component,4,Material,ico84181.png
+Small steel-coded component [placeholder],,37431199349647287178406827509795846813081245889726291224308123366573228906775,84182,0.1,740,1,1,4780,Basic Component,4,Material,ico84182.png
+Medium steel-coded component [placeholder],,20753640952303555300328667005013740484934359741159533121021122206509374235068,84204,1,7400,1,1,4780,Basic Component,4,Material,ico84204.png
+Large steel-coded component,,54812055025306847544888240191925258377619619755876474058944488326264323818061,84206,10,74000,1,1,4780,Basic Component,4,Material,ico84206.png
+Ship chassis materials M,,22079799301612675449448612275017827395919668707963113471509123606568266858246,84207,5000,37000000,1,1,4780,Basic Component,4,Material,ico84207.png
+Slot component [placeholder],,72094354406095205848723718585602684441733214245287422946714148660731163861261,84209,5,16000,1,1,4780,Basic Component,4,Material,ico84209.png
+Small light metal alloy component  [placeholder],,8063412942397756158777555372035415638189697500110006728807354928745902477285,84210,0.1,380,1,1,4780,Basic Component,4,Material,ico84210.png
+Base capacitor component  [placeholder],,89993052142056281437846655060811621109530388828096600476212659434783534718627,84211,0.4,1240,1,1,4780,Basic Component,4,Material,ico84211.png
+Clone Transport Capsule [placeholder],,109077428354747841377808976465697843248439028172372700061246397353396862864947,84213,1000,600000,5,1,31,Shuttle,6,Ship,
+Jump Drive,Placeholder,28919637604881651568809644413966307353107191148931749347431295554917531299033,84215,250,30000,10,1,4783,Jump Drive,7,Module,ico84215.png
+Longbow [placeholder],,12367398717481107584079816127855953634205792484974645316667225338718094625784,84216,5100,3399640,13.5,1,31,Shuttle,6,Ship,
+Smart Turret,,86810681810584602095688163888398970545538834181703470575249110296948251354081,84556,15000,10000,2500,1,4602,Smart Deployable,22,Deployable,
+Focal Micro-Component YK-1,"YK-1 type Focal Micro-Component for Mini-Lasers
+---
+Thermal Damage: 4",33732980640446738955620879572125415173418610423893343509109522034078871586132,84641,0.002,0.01,1,600,4739,EM Disintegrator Charge ,8,Charge,ico84641.png
+Ship chassis materials S,,70979589481532537143338596486102570676001822481935991586576419573622837442124,84702,20000,3700000,1,1,4780,Basic Component,4,Material,ico84702.png
+Bulky cargo sheets [placeholder],,31355066254435888688060044794593916743284863506660453675927824102171337705375,84703,5,29600,1,1,4780,Basic Component,4,Material,ico84703.png
+Gyrojet D-300,"Ammunition for Gyrojet weapons
+---
+Kinetic Damage: 30",43845636145578049332893053684443222096211071850470892833304951949410604097525,84710,0.5,100,1,100,4623,Gyrojet Ammunition,8,Charge,ico84710.png
+Shield Generator [placeholder],,58418623651031070482160562198968568053935136941173511948483178955301506042562,84712,6,9050,1,1,4780,Basic Component,4,Material,ico84712.png
+Fuel container 25m [placeholder],,82308654347536282317858058293016171133371169142005097855628380293506134973939,84715,25,13000,1,1,4780,Basic Component,4,Material,ico84715.png
+Projectile weapon platform S,,41352189672906026323979135983463528414988719918232331390029028101982746496024,84764,8,11200,1,1,4780,Basic Component,4,Material,ico84764.png
+Hybrid weapon platform S,,87117092470517273183833975953386233984184939409494487937917257347412673465316,84765,8,11200,1,1,4780,Basic Component,4,Material,ico84765.png
+Precursor weapon platform S,,21318550928870931057642978224604512112140564635417597303413544292101516271849,84766,8,11200,1,1,4780,Basic Component,4,Material,ico84766.png
+Projectile weapon platform M,,25404887447145096608971198941201333274335563024563735160428794437634733865653,84786,48,45200,1,1,4780,Basic Component,4,Material,ico84786.png
+Hybrid weapon platform M,,79967184140907697504764757924310957458419973003986900114136372246598276975921,84787,48,45200,1,1,4780,Basic Component,4,Material,ico84787.png
+Precursor weapon  platform M,,114849592759401545476104336245442155491180795213821939158581859129895163661843,84788,48,45200,1,1,4780,Basic Component,4,Material,ico84788.png
+Projectile weapon platform L,,59428554651001782081641983763595476049663826860268941367449340022445450979913,84789,256,219600,1,1,4780,Basic Component,4,Material,ico84789.png
+Hybrid weapon platform L,,38542502185097765864458394164367681230667943468206427619356184209402066474515,84790,256,219600,1,1,4780,Basic Component,4,Material,ico84790.png
+Precursor weapon  platform L,,100446728165922261223323863382238458956274394587764022590292737297131348838851,84791,256,219600,1,1,4780,Basic Component,4,Material,ico84791.png
+S Precursor ammo cargo,,103015799342379090819694616118094729217947511268270206297147164859511421960460,84794,1.5,830,1,1,4780,Basic Component,4,Material,ico84794.png
+S Projectile ammo cargo,,63048561544859705074613640261793392570285956634865227887193815766497591464842,84797,1.5,880,1,1,4780,Basic Component,4,Material,ico84797.png
+Hybrid ammo cargo,,32253654775105941465902339156516107177685187272951335423498070273221254045579,84800,1.5,890,1,1,4780,Basic Component,4,Material,ico84800.png
+Target tracking computer,,95110702077873935332097397391451340120384772670935688676528676752658676804579,84801,1,800,1,1,4780,Basic Component,4,Material,ico84801.png
+Advanced Hybrid Weapon launcher component,,20893472173116854712556033163252742201187129062246960653354018445573684016496,84802,1,1000,1,1,4780,Basic Component,4,Material,ico84802.png
+Advanced Precursor Weapon launcher component,,4733792858997932199793237784275760294948672261400176398413597981963962318024,84803,1,1000,1,1,4780,Basic Component,4,Material,ico84803.png
+Advanced Projectile Weapon launcher component,,113414396021704730464324550179682603501893452501845603558394845212998036078977,84804,1,1000,1,1,4780,Basic Component,4,Material,ico84804.png
+Medium light metal alloy component,,20054694068797255216146900446290968197901713299461835820136166600088585200553,84805,1,3800,1,1,4780,Basic Component,4,Material,ico84805.png
+Large light metal alloy component,,90386381527658964052017232113206452839908123640020487279588763985415591062027,84806,10,38000,1,1,4780,Basic Component,4,Material,ico84806.png
+Ship chassis materials S ( copy ), ( copy ),83025750716292030571774365085450748138828649996678252377738543477941312847301,84810,20000,11100000,1,1,4780,Basic Component,4,Material,ico84810.png
+SOF-40 Fuel,,52721726539134046564713154620132262141127033602680449452456802731178719607593,84868,0.28,1,1,1,4738,Crude Fuel,17,Commodity,ico84868.png
+Katzbalger [placeholder],,92219362628691775737378914803524224856892417540339518771758158791910752036839,85036,7600,5712520,11,1,31,Shuttle,6,Ship,
