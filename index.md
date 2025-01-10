@@ -1,9 +1,11 @@
 ### an [eve frontier](https://evefrontier.com/) project
 
-[start](https://github.com/gwt-git/mine.yachts/blob/main/mine-yachts.csv)
+[Official Builder Docs](https://docs.evefrontier.com/)
 
-[mining data](https://github.com/gwt-git/mine.yachts/blob/main/mining.csv)
+[Game Guide](https://github.com/gwt-git/mine.yachts/blob/main/mine-yachts.csv)
+
+[Mining Data](https://github.com/gwt-git/mine.yachts/blob/main/mining.csv)
 
 [EFTB](https://eftb.shish.io/)
 
-[Official Builder Docs](https://docs.evefrontier.com/)
+
