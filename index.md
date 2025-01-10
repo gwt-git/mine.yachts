@@ -1,4 +1,4 @@
-#### An [eve frontier](https://evefrontier.com/) project.
+#### An [EVE Frontier](https://evefrontier.com/) project.
 
 [Official Builder Docs](https://docs.evefrontier.com/)
 
