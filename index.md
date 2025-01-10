@@ -6,4 +6,4 @@
 
 [EFTB](https://eftb.shish.io/)
 
-[Build Docs](https://docs.evefrontier.com/)
+[Official Builder Docs](https://docs.evefrontier.com/)
